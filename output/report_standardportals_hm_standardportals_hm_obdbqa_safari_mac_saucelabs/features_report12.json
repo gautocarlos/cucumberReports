@@ -1,0 +1,134 @@
+[
+  {
+    "uri": "features/standardportals_hm/01_standardportals_hm_login.feature",
+    "id": "login-to-the-agnostic-hm-portal",
+    "keyword": "Feature",
+    "name": "Login to the agnostic hm portal",
+    "description": "  In order to access my user account\n  As a portal user\n  I want to login/logout to the standard hiring manager portal",
+    "line": 2,
+    "tags": [
+      {
+        "name": "@standard",
+        "line": 1
+      },
+      {
+        "name": "@login",
+        "line": 1
+      }
+    ],
+    "elements": [
+      {
+        "id": "login-to-the-agnostic-hm-portal;reset-password",
+        "keyword": "Scenario",
+        "name": "reset password",
+        "description": "",
+        "line": 20,
+        "type": "scenario",
+        "tags": [
+          {
+            "name": "@standard",
+            "line": 1
+          },
+          {
+            "name": "@login",
+            "line": 1
+          },
+          {
+            "name": "@reset_password",
+            "line": 19
+          }
+        ],
+        "before": [
+          {
+            "match": {
+              "location": "capybara-2.14.4/lib/capybara/cucumber.rb:13"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 26125
+            }
+          },
+          {
+            "match": {
+              "location": "capybara-2.14.4/lib/capybara/cucumber.rb:21"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 35166
+            }
+          },
+          {
+            "match": {
+              "location": "features/support/cucumber_hooks.rb:33"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 42859272434
+            }
+          }
+        ],
+        "steps": [
+          {
+            "keyword": "Given ",
+            "name": "hm user enters to the agnostic hm portal",
+            "line": 21,
+            "match": {
+              "location": "features/standardportals_hm/step_definitions/standardportals_hm_steps.rb:1"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 21953940766
+            }
+          },
+          {
+            "keyword": "When ",
+            "name": "hm user attempts to reset my password through the agnostic hm portal",
+            "line": 22,
+            "match": {
+              "location": "features/standardportals_hm/step_definitions/standardportals_hm_steps.rb:35"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 21872502235
+            }
+          },
+          {
+            "keyword": "Then ",
+            "name": "hm user successfully triggered the reset password process through the agnostic hm portal",
+            "line": 23,
+            "match": {
+              "location": "features/standardportals_hm/step_definitions/standardportals_hm_steps.rb:42"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 7598131394
+            }
+          }
+        ],
+        "after": [
+          {
+            "output": [
+              "SauceOnDemandSessionID=d1ebd303280845949a38bf4923badabe job-name=standardportals_hm - Login to the agnostic hm portal - reset password"
+            ],
+            "match": {
+              "location": "features/support/cucumber_hooks.rb:1"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 3086342361
+            }
+          },
+          {
+            "match": {
+              "location": "capybara-2.14.4/lib/capybara/cucumber.rb:9"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2151412881
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

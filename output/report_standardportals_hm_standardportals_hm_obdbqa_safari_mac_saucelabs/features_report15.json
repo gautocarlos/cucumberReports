@@ -1,0 +1,142 @@
+[
+  {
+    "uri": "features/standardportals_hm/02_standardportals_hm_job_creation.feature",
+    "id": "manage-requisitions-through-the-portal",
+    "keyword": "Feature",
+    "name": "manage requisitions through the portal",
+    "description": "  In order to create, view details and approve jobs\n  As a portal user\n  I want to manage jobs through the hm portal",
+    "line": 2,
+    "tags": [
+      {
+        "name": "@standard",
+        "line": 1
+      },
+      {
+        "name": "@jobs",
+        "line": 1
+      },
+      {
+        "name": "@jobs_create",
+        "line": 1
+      }
+    ],
+    "elements": [
+      {
+        "id": "manage-requisitions-through-the-portal;successfully-create-a-job-from-a-job-template",
+        "keyword": "Scenario",
+        "name": "successfully create a job from a job template",
+        "description": "",
+        "line": 14,
+        "type": "scenario",
+        "tags": [
+          {
+            "name": "@standard",
+            "line": 1
+          },
+          {
+            "name": "@jobs",
+            "line": 1
+          },
+          {
+            "name": "@jobs_create",
+            "line": 1
+          },
+          {
+            "name": "@create_job_from_template",
+            "line": 13
+          }
+        ],
+        "before": [
+          {
+            "match": {
+              "location": "capybara-2.14.4/lib/capybara/cucumber.rb:13"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 24682
+            }
+          },
+          {
+            "match": {
+              "location": "capybara-2.14.4/lib/capybara/cucumber.rb:21"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 36939
+            }
+          },
+          {
+            "match": {
+              "location": "features/support/cucumber_hooks.rb:33"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 58794384212
+            }
+          }
+        ],
+        "steps": [
+          {
+            "keyword": "Given ",
+            "name": "hm user logs in to the agnostic hm portal",
+            "line": 15,
+            "match": {
+              "location": "features/standardportals_hm/step_definitions/standardportals_hm_steps.rb:51"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 55788947841
+            }
+          },
+          {
+            "keyword": "When ",
+            "name": "hm user attempts to create a new job from template through the agnostic hm portal",
+            "line": 16,
+            "match": {
+              "location": "features/standardportals_hm/step_definitions/standardportals_hm_steps.rb:70"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 65601474008
+            }
+          },
+          {
+            "keyword": "Then ",
+            "name": "hm user successfully created a new job through the agnostic hm portal",
+            "line": 17,
+            "match": {
+              "location": "features/standardportals_hm/step_definitions/standardportals_hm_steps.rb:92"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 6742868519
+            }
+          }
+        ],
+        "after": [
+          {
+            "output": [
+              "SauceOnDemandSessionID=0781b90b11d6431eaa2748070cfe7468 job-name=standardportals_hm - manage requisitions through the portal - successfully create a job from a job template"
+            ],
+            "match": {
+              "location": "features/support/cucumber_hooks.rb:1"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 3140226473
+            }
+          },
+          {
+            "match": {
+              "location": "capybara-2.14.4/lib/capybara/cucumber.rb:9"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1765480392
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

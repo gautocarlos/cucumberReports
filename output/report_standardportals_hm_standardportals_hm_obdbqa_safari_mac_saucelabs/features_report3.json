@@ -1,0 +1,142 @@
+[
+  {
+    "uri": "features/standardportals_hm/06_standardportals_hm_offers_to_approve.feature",
+    "id": "manage-candidates-pending-to-approve-offer-through-the-portal",
+    "keyword": "Feature",
+    "name": "manage candidates pending to approve offer through the portal",
+    "description": "  In order to view information, approve or reject candidate offer letter\n  As a portal user\n  I want to manage candidate offer through the hm portal",
+    "line": 2,
+    "tags": [
+      {
+        "name": "@standard",
+        "line": 1
+      },
+      {
+        "name": "@candidates",
+        "line": 1
+      },
+      {
+        "name": "@offers_to_approve",
+        "line": 1
+      }
+    ],
+    "elements": [
+      {
+        "id": "manage-candidates-pending-to-approve-offer-through-the-portal;successfully-reject-candidate-offer",
+        "keyword": "Scenario",
+        "name": "successfully reject candidate offer",
+        "description": "",
+        "line": 20,
+        "type": "scenario",
+        "tags": [
+          {
+            "name": "@standard",
+            "line": 1
+          },
+          {
+            "name": "@candidates",
+            "line": 1
+          },
+          {
+            "name": "@offers_to_approve",
+            "line": 1
+          },
+          {
+            "name": "@offer_reject",
+            "line": 19
+          }
+        ],
+        "before": [
+          {
+            "match": {
+              "location": "capybara-2.14.4/lib/capybara/cucumber.rb:13"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 57253
+            }
+          },
+          {
+            "match": {
+              "location": "capybara-2.14.4/lib/capybara/cucumber.rb:21"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 92139
+            }
+          },
+          {
+            "match": {
+              "location": "features/support/cucumber_hooks.rb:33"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 10026644288
+            }
+          }
+        ],
+        "steps": [
+          {
+            "keyword": "Given ",
+            "name": "hm user logs in to the agnostic hm portal",
+            "line": 21,
+            "match": {
+              "location": "features/standardportals_hm/step_definitions/standardportals_hm_steps.rb:51"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 45856230756
+            }
+          },
+          {
+            "keyword": "When ",
+            "name": "hm user rejects a candidate offer through the agnostic hm portal",
+            "line": 22,
+            "match": {
+              "location": "features/standardportals_hm/step_definitions/standardportals_hm_steps.rb:471"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 143612067023
+            }
+          },
+          {
+            "keyword": "Then ",
+            "name": "hm user successfully reviewed a candidate offer through the agnostic hm portal",
+            "line": 23,
+            "match": {
+              "location": "features/standardportals_hm/step_definitions/standardportals_hm_steps.rb:482"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 136064063486
+            }
+          }
+        ],
+        "after": [
+          {
+            "output": [
+              "SauceOnDemandSessionID=d20f57a5a0344ef48e6b56c64196029f job-name=standardportals_hm - manage candidates pending to approve offer through the portal - successfully reject candidate offer"
+            ],
+            "match": {
+              "location": "features/support/cucumber_hooks.rb:1"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 3091138995
+            }
+          },
+          {
+            "match": {
+              "location": "capybara-2.14.4/lib/capybara/cucumber.rb:9"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1992066335
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

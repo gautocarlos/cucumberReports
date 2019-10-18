@@ -1,0 +1,2149 @@
+10:22:27 [DEBUG] Scenario: | successfully view candidate offer details
+10:22:27 [DEBUG] Scenario: | successfully reject job
+10:22:27 [DEBUG] Scenario: | successfully approve candidate offer
+10:22:27 [DEBUG] Scenario: | successfully approve job
+10:22:27 [DEBUG] Scenario: | successfully approve candidate pending to review
+10:22:27 [DEBUG] Scenario: | successfully view job details
+10:22:27 [DEBUG] Scenario: | successfully reject candidate pending to review
+10:22:27 [DEBUG] Scenario: | successfully view candidate to review details
+10:22:27 [DEBUG] Scenario: | successfully reject candidate offer
+10:22:27 [DEBUG] Scenario: | successfully login
+10:23:39 [INFO] Requisitions to approve page loaded.
+10:23:40 [INFO] Requisitions to approve page loaded.
+10:23:40 [DEBUG] Scenario: | login fail
+10:23:45 [INFO] Searching for: '13, Test Candidate Review'
+10:23:45 [INFO] Searching for: '13, Test Candidate Offer'
+10:23:46 [INFO] Requisitions to approve page loaded.
+10:23:47 [INFO] Requisitions to approve page loaded.
+10:23:48 [INFO] Requisitions to approve page loaded.
+10:23:48 [INFO] Searching for: '16, Test Candidate Offer'
+10:23:49 [INFO] Searching for: '5, Test Candidate Review'
+10:23:54 [INFO] Searching for: '10, Test Candidate Review'
+10:23:57 [INFO] Requisitions to approve page loaded.
+10:23:58 [INFO] Searching for: '15, Test Candidate Offer'
+10:24:01 [INFO] Searching for: 'Caretaker'
+10:24:03 [INFO] Searching for: 'Architect'
+10:24:12 [INFO] Searching for: 'Clown'
+10:24:14 [INFO] Requisitions to approve page loaded.
+10:24:15 [INFO] Requisitions to approve page loaded.
+10:24:19 [INFO] Displaying results for keyword: 'Caretaker'
+10:24:20 [INFO] Displaying results for keyword: 'Architect'
+10:24:24 [INFO] Requisitions to approve page loaded.
+10:24:29 [INFO] Displaying results for keyword: 'Clown'
+10:24:39 [INFO] Getting linked Job info
+10:24:44 [INFO] Getting linked Job info
+10:24:54 [INFO] Getting linked Job info
+10:25:06 [INFO] -- Candidates to Review Detail --
+10:25:06 [INFO] -- Linked Job --
+10:25:06 [INFO] -- Candidates to Review Detail --
+10:25:06 [INFO] -- Linked Job --
+10:25:07 [INFO] Getting linked Job info
+10:25:07 [INFO] Getting linked Job info
+10:25:09 [INFO] name: QA Engineer
+10:25:09 [INFO] ref_: 123456789
+10:25:09 [INFO] city: Manhattan
+10:25:09 [INFO] country: United States
+10:25:09 [INFO] description: Job Description Testing
+10:25:11 [INFO] ref_: 423456802
+10:25:11 [INFO] city: Manhattan
+10:25:11 [INFO] country: United States
+10:25:11 [INFO] recruiter: Armstrong, Elnora
+10:25:11 [INFO] position_level: Analyst
+10:25:11 [INFO] working_time: Full-time
+10:25:11 [INFO] type_of_contract: Permanent
+10:25:11 [INFO] reason_for_opening: New Position
+10:25:12 [INFO] -- Candidates to Review Detail --
+10:25:12 [INFO] -- Linked Job --
+10:25:14 [INFO] Getting linked Job info
+10:25:15 [INFO] name: QA Engineer
+10:25:15 [INFO] ref_: 123456789
+10:25:15 [INFO] city: Manhattan
+10:25:15 [INFO] country: United States
+10:25:15 [INFO] description: Job Description Testing
+10:25:16 [INFO] ref_: 423456793
+10:25:16 [INFO] city: Manhattan
+10:25:16 [INFO] country: United States
+10:25:16 [INFO] recruiter: Armstrong, Elnora
+10:25:16 [INFO] position_level: Analyst
+10:25:16 [INFO] working_time: Full-time
+10:25:16 [INFO] type_of_contract: Permanent
+10:25:16 [INFO] reason_for_opening: New Position
+10:25:27 [INFO] ref_: 423456806
+10:25:27 [INFO] city: Manhattan
+10:25:27 [INFO] country: United States
+10:25:27 [INFO] recruiter: Armstrong, Elnora
+10:25:27 [INFO] position_level: Analyst
+10:25:27 [INFO] working_time: Full-time
+10:25:27 [INFO] type_of_contract: Permanent
+10:25:27 [INFO] reason_for_opening: New Position
+10:25:28 [INFO] name: QA Engineer
+10:25:28 [INFO] ref_: 123456789
+10:25:28 [INFO] city: Manhattan
+10:25:28 [INFO] country: United States
+10:25:28 [INFO] description: Job Description Testing
+10:25:35 [INFO] title: QA Engineer
+10:25:35 [INFO] company: Avature
+10:25:35 [INFO] e_mail: offer@candidate13.com
+10:25:35 [INFO] title: QA Engineer
+10:25:35 [INFO] company: Avature
+10:25:35 [INFO] e_mail: offer@candidate16.com
+10:25:35 [INFO] name: QA Engineer
+10:25:35 [INFO] ref_: 123456789
+10:25:35 [INFO] city: Manhattan
+10:25:35 [INFO] country: United States
+10:25:35 [INFO] description: Job Description Testing
+10:25:36 [INFO] name: QA Engineer
+10:25:36 [INFO] ref_: 123456789
+10:25:36 [INFO] city: Manhattan
+10:25:36 [INFO] country: United States
+10:25:36 [INFO] description: Job Description Testing
+10:25:37 [DEBUG] Scenario: | reset password
+10:25:37 [INFO] Job: : QA Engineer
+10:25:37 [INFO] name: QA Engineer
+10:25:37 [INFO] ref_: 123456789
+10:25:37 [INFO] city: Manhattan
+10:25:37 [INFO] country: United States
+10:25:37 [INFO] description: Job Description Testing
+10:25:37 [INFO] Attachment/s: : =>
+10:25:37 [INFO] 803_offer letter.pdf (offer ): 
+10:25:38 [INFO] -- General information --
+10:25:39 [INFO] -- General information --
+10:25:39 [INFO] Job: : QA Engineer
+10:25:39 [INFO] name: QA Engineer
+10:25:39 [INFO] ref_: 123456789
+10:25:39 [INFO] city: Manhattan
+10:25:39 [INFO] country: United States
+10:25:39 [INFO] description: Job Description Testing
+10:25:39 [INFO] Attachment/s: : =>
+10:25:39 [INFO] 806_offer letter.pdf (offer ): 
+10:25:42 [INFO] Requisitions to approve page loaded.
+10:25:44 [INFO] name: QA Engineer
+10:25:44 [INFO] ref_: 123456789
+10:25:44 [INFO] city: Manhattan
+10:25:44 [INFO] country: United States
+10:25:44 [INFO] description: Job Description Testing
+10:25:47 [DEBUG] Scenario: | log out
+10:25:47 [INFO] -- General information --
+10:25:48 [INFO] title: QA Engineer
+10:25:48 [INFO] company: Avature
+10:25:48 [INFO] e_mail: offer@candidate15.com
+10:25:51 [INFO] Job: : QA Engineer
+10:25:51 [INFO] name: QA Engineer
+10:25:51 [INFO] ref_: 123456789
+10:25:51 [INFO] city: Manhattan
+10:25:51 [INFO] country: United States
+10:25:51 [INFO] description: Job Description Testing
+10:25:51 [INFO] Attachment/s: : =>
+10:25:51 [INFO] 805_offer letter.pdf (offer ): 
+10:25:55 [INFO] title: QA Engineer
+10:25:55 [INFO] company: Avature
+10:25:55 [INFO] e_mail: review@candidate5.com
+10:25:55 [INFO] -- Work experience --
+10:25:55 [INFO] title: QA Engineer
+10:25:55 [INFO] company: Avature
+10:25:55 [INFO] e_mail: review@candidate13.com
+10:25:55 [INFO] -- Work experience --
+10:25:58 [INFO] Searching for: 'Caretaker'
+10:25:59 [INFO] Requisitions to approve page loaded.
+10:26:04 [INFO] title: QA Engineer
+10:26:04 [INFO] company: Avature
+10:26:04 [INFO] e_mail: review@candidate10.com
+10:26:04 [INFO] -- Work experience --
+10:26:07 [INFO] titles: ["Company", "Position title", "Is current position?", "Start date", "End date"]
+10:26:07 [INFO] values: ["Avature QA Engineer Yes Jan-2015", "Google QA Analyst No Jan-2010 Dec-2014"]
+10:26:07 [INFO] -- Education History --
+10:26:07 [INFO] titles: ["Company", "Position title", "Is current position?", "Start date", "End date"]
+10:26:07 [INFO] values: ["Avature QA Engineer Yes Jan-2015", "Google QA Analyst No Jan-2010 Dec-2014"]
+10:26:07 [INFO] -- Education History --
+10:26:17 [INFO] Searching for: 'Architect'
+10:26:19 [INFO] titles: ["Company", "Position title", "Is current position?", "Start date", "End date"]
+10:26:19 [INFO] values: ["Avature QA Engineer Yes Jan-2015", "Google QA Analyst No Jan-2010 Dec-2014"]
+10:26:19 [INFO] -- Education History --
+10:26:20 [INFO] titles: ["Degree name", "Type of Degree", "University", "Start Date", "End date"]
+10:26:20 [INFO] values: ["System Analyst GED UTN Jan-2003 Jan-2008", "Bachelor's Bachelor's Degree Carlos Pelegrini Jan-1996 Dec-2001"]
+10:26:20 [INFO] -- Screening Notes --
+10:26:20 [INFO] titles: ["Degree name", "Type of Degree", "University", "Start Date", "End date"]
+10:26:20 [INFO] values: ["System Analyst GED UTN Jan-2003 Jan-2008", "Bachelor's Bachelor's Degree Carlos Pelegrini Jan-1996 Dec-2001"]
+10:26:20 [INFO] -- Screening Notes --
+10:26:22 [DEBUG] Scenario: | successfully create a job from scratch
+10:26:23 [INFO] Searching for: '13, Test Candidate Offer'
+10:26:27 [DEBUG] Scenario: | successfully create a job from a job template
+10:26:30 [INFO] relevant_experience_: Three years in similar role with demonstrated success completing similar projects. Proven team player with the ability to work in matrixed environment. Solid exposure to upper management.
+10:26:30 [INFO] why_is: Not actively looking, but open to something which will offer more opportunity to lead and develop others as well as expand current knowledge base.
+10:26:30 [INFO] screening_overall: ★★★★★
+10:26:30 [INFO] Job: : QA Engineer
+10:26:32 [INFO] titles: ["Degree name", "Type of Degree", "University", "Start Date", "End date"]
+10:26:32 [INFO] values: ["System Analyst GED UTN Jan-2003 Jan-2008", "Bachelor's Bachelor's Degree Carlos Pelegrini Jan-1996 Dec-2001"]
+10:26:32 [INFO] -- Screening Notes --
+10:26:32 [INFO] relevant_experience_: Three years in similar role with demonstrated success completing similar projects. Proven team player with the ability to work in matrixed environment. Solid exposure to upper management.
+10:26:32 [INFO] why_is: Not actively looking, but open to something which will offer more opportunity to lead and develop others as well as expand current knowledge base.
+10:26:32 [INFO] screening_overall: ★★★★★
+10:26:32 [INFO] Job: : QA Engineer
+10:26:40 [DEBUG] Scenario: | Successfully add a delegate
+10:26:40 [INFO] OpenRequisitionsDetail page loaded.
+10:26:43 [INFO] relevant_experience_: Three years in similar role with demonstrated success completing similar projects. Proven team player with the ability to work in matrixed environment. Solid exposure to upper management.
+10:26:43 [INFO] why_is: Not actively looking, but open to something which will offer more opportunity to lead and develop others as well as expand current knowledge base.
+10:26:43 [INFO] screening_overall: ★★★★★
+10:26:43 [INFO] Job: : QA Engineer
+10:26:50 [DEBUG] Scenario: | successfully view interview feedback candidate details
+10:26:51 [INFO] Candidates To Review Success page loaded.
+10:27:03 [INFO] Other Candidates Detail page loaded.
+10:27:08 [INFO] ref_: 423456802
+10:27:08 [INFO] city: Manhattan
+10:27:08 [INFO] country: United States
+10:27:08 [INFO] recruiter: Armstrong, Elnora
+10:27:08 [INFO] position_level: Analyst
+10:27:08 [INFO] working_time: Full-time
+10:27:08 [INFO] type_of_contract: Permanent
+10:27:08 [INFO] reason_for_opening: New Position
+10:27:08 [INFO] Job validations
+10:27:09 [INFO] Getting linked Job info
+10:27:14 [INFO] Searching for: '13, Test Candidate Review'
+10:27:18 [DEBUG] Scenario: | successfully approve interview feedback candidate
+10:27:25 [INFO] Candidates To Review Success page loaded.
+10:27:30 [INFO] ref_: 423456793
+10:27:30 [INFO] city: Manhattan
+10:27:30 [INFO] country: United States
+10:27:30 [INFO] recruiter: Armstrong, Elnora
+10:27:30 [INFO] position_level: Analyst
+10:27:30 [INFO] working_time: Full-time
+10:27:30 [INFO] type_of_contract: Permanent
+10:27:30 [INFO] reason_for_opening: New Position
+10:27:39 [DEBUG] Scenario: | successfully reject interview feedback candidate
+10:27:40 [INFO] name: QA Engineer
+10:27:40 [INFO] ref_: 123456789
+10:27:40 [INFO] city: Manhattan
+10:27:40 [INFO] country: United States
+10:27:40 [INFO] description: Job Description Testing
+10:27:51 [DEBUG] Scenario: | Successfully edit profile
+10:27:51 [INFO] Searching for: '10, Test Candidate Review'
+10:27:56 [INFO] job_template_name: QA Analyst
+10:27:56 [INFO] position_title: QA Analyst New York
+10:27:56 [INFO] location: {:country=>"United States", :state=>"New York", :city=>"Manhattan"}
+10:27:56 [INFO] num_of_openings: 99999999
+10:27:56 [INFO] position_level: Analyst
+10:27:56 [INFO] department: Manufacturing
+10:27:56 [INFO] recruiter: Armstrong, Elnora
+10:27:56 [INFO] -- Other candidates Detail --
+10:27:58 [INFO] Other Candidates Detail page loaded.
+10:27:59 [INFO] title: QA Engineer
+10:27:59 [INFO] company: Avature
+10:27:59 [INFO] e_mail: offer@candidate13.com
+10:28:03 [INFO] Job: : QA Engineer
+10:28:03 [INFO] name: QA Engineer
+10:28:03 [INFO] ref_: 123456789
+10:28:03 [INFO] city: Manhattan
+10:28:03 [INFO] country: United States
+10:28:03 [INFO] description: Job Description Testing
+10:28:03 [INFO] Candidate Details: : =>
+10:28:03 [INFO] title: QA Engineer
+10:28:03 [INFO] company: Avature
+10:28:03 [INFO] e_mail: offer@candidate13.com
+10:28:03 [INFO] Attachment/s: : =>
+10:28:03 [INFO] 803_offer letter.pdf (offer ): 
+10:28:03 [INFO] -- Linked Job --
+10:28:04 [INFO] Getting linked Job info
+10:28:29 [INFO] position_title: Forward Architect
+10:28:29 [INFO] location: {:country=>"United States", :state=>"Missouri", :city=>"West Macieburgh"}
+10:28:29 [INFO] reason: New Position
+10:28:29 [INFO] num_of_openings: 3
+10:28:29 [INFO] position_level: VP & SVP
+10:28:29 [INFO] department: Marketing
+10:28:29 [INFO] recruiter: Armstrong, Elnora
+10:28:31 [INFO] -- Other candidates Detail --
+10:28:31 [ERROR] Bug State is not retrieved, this case need to be solved: https://teg.avature.net/#Case/437228
+10:28:31 [WARN] Scroll to element not supported.
+10:28:33 [WARN] Scroll to element not supported.
+10:28:35 [INFO] Other Candidates Detail page loaded.
+10:28:35 [INFO] name: QA Engineer
+10:28:35 [INFO] ref_: 123456789
+10:28:35 [INFO] city: Manhattan
+10:28:35 [INFO] country: United States
+10:28:35 [INFO] description: Job Description Testing
+10:28:37 [INFO] -- General information --
+10:28:38 [INFO] The element disappear or is stale
+10:28:38 [INFO] Searching for: '4, Test Candidate Interview'
+10:28:39 [INFO] -- Linked Job --
+10:28:40 [INFO] The element disappear or is stale
+10:28:41 [INFO] Getting linked Job info
+10:28:54 [INFO] Searching for: '14, Test Candidate Interview'
+10:28:54 [INFO] title: QA Engineer
+10:28:54 [INFO] company: Avature
+10:28:54 [INFO] e_mail: review@candidate13.com
+10:28:54 [INFO] -- Work experience --
+10:29:05 [INFO] Searching for: '17, Test Candidate Interview'
+10:29:07 [INFO] titles: ["Company", "Position title", "Is current position?", "Start date", "End date"]
+10:29:07 [INFO] values: ["Avature QA Engineer Yes Jan-2015", "Google QA Analyst No Jan-2010 Dec-2014"]
+10:29:07 [INFO] -- Education History --
+10:29:09 [INFO] name: QA Engineer
+10:29:09 [INFO] ref_: 123456789
+10:29:09 [INFO] city: Manhattan
+10:29:09 [INFO] country: United States
+10:29:09 [INFO] description: Job Description Testing
+10:29:11 [INFO] == Profile data before update: ==
+10:29:12 [INFO] -- General information --
+10:29:18 [INFO] titles: ["Degree name", "Type of Degree", "University", "Start Date", "End date"]
+10:29:18 [INFO] values: ["System Analyst GED UTN Jan-2003 Jan-2008", "Bachelor's Bachelor's Degree Carlos Pelegrini Jan-1996 Dec-2001"]
+10:29:18 [INFO] -- Screening Notes --
+10:29:29 [INFO] -- Interview feedback Detail --
+10:29:29 [INFO] -- Linked Job --
+10:29:31 [INFO] title: QA Engineer
+10:29:31 [INFO] company: Avature
+10:29:31 [INFO] e_mail: review@candidate10.com
+10:29:31 [INFO] -- Work experience --
+10:29:32 [INFO] relevant_experience_: Three years in similar role with demonstrated success completing similar projects. Proven team player with the ability to work in matrixed environment. Solid exposure to upper management.
+10:29:32 [INFO] why_is: Not actively looking, but open to something which will offer more opportunity to lead and develop others as well as expand current knowledge base.
+10:29:32 [INFO] screening_overall: ★★★★★
+10:29:32 [INFO] Getting linked Job info
+10:29:40 [INFO] first_name_: Berneice
+10:29:40 [INFO] last_name_: Harris
+10:29:40 [INFO] email_: user.hm1@avature.net
+10:29:40 [INFO] mobile_phone_: 1-650-856-2689
+10:29:40 [INFO] street_: Pacocha Extensions
+10:29:40 [INFO] city_: Lake Jaqueline
+10:29:40 [INFO] state_: Florida
+10:29:40 [INFO] country_: United States
+10:29:40 [INFO] website_: treutel.io
+10:29:43 [INFO] -- Interview feedback Detail --
+10:29:43 [INFO] -- Linked Job --
+10:29:43 [INFO] titles: ["Company", "Position title", "Is current position?", "Start date", "End date"]
+10:29:43 [INFO] values: ["Avature QA Engineer Yes Jan-2015", "Google QA Analyst No Jan-2010 Dec-2014"]
+10:29:43 [INFO] -- Education History --
+10:29:44 [INFO] Getting linked Job info
+10:29:50 [INFO] == Profile data to update: ==
+10:29:50 [INFO] email_home: lowell@rueckercrona.net
+10:29:50 [INFO] email_work: mattie.abbott@zulauf.org
+10:29:50 [INFO] phone_work: 309.314.5746 x437
+10:29:50 [INFO] phone_mobile: (685) 644-2948
+10:29:50 [INFO] website: crist.info
+10:29:50 [INFO] location: {:country=>"United States", :address=>"Friesen Drives", :city=>"Alejandrinside", :state=>"Minnesota"}
+10:29:53 [INFO] -- Interview feedback Detail --
+10:29:53 [INFO] -- Linked Job --
+10:29:54 [INFO] Getting linked Job info
+10:29:57 [INFO] titles: ["Degree name", "Type of Degree", "University", "Start Date", "End date"]
+10:29:57 [INFO] values: ["System Analyst GED UTN Jan-2003 Jan-2008", "Bachelor's Bachelor's Degree Carlos Pelegrini Jan-1996 Dec-2001"]
+10:29:57 [INFO] -- Screening Notes --
+10:30:00 [INFO] Job: : QA Engineer
+10:30:00 [INFO] name: QA Engineer
+10:30:00 [INFO] ref_: 123456789
+10:30:00 [INFO] city: Manhattan
+10:30:00 [INFO] country: United States
+10:30:00 [INFO] description: Job Description Testing
+10:30:00 [INFO] Candidate Details: : =>
+10:30:00 [INFO] title: QA Engineer
+10:30:00 [INFO] company: Avature
+10:30:00 [INFO] e_mail: review@candidate13.com
+10:30:00 [INFO] Attachment/s: : =>
+10:30:00 [INFO] cover letter (cover letter ): 
+10:30:00 [INFO] Work experience: : =>
+10:30:00 [INFO] titles: ["Company", "Position title", "Is current position?", "Start date", "End date"]
+10:30:00 [INFO] values: ["Avature QA Engineer Yes Jan-2015", "Google QA Analyst No Jan-2010 Dec-2014"]
+10:30:00 [INFO] Education History: : =>
+10:30:00 [INFO] titles: ["Degree name", "Type of Degree", "University", "Start Date", "End date"]
+10:30:00 [INFO] values: ["System Analyst GED UTN Jan-2003 Jan-2008", "Bachelor's Bachelor's Degree Carlos Pelegrini Jan-1996 Dec-2001"]
+10:30:00 [INFO] Screening Notes: : =>
+10:30:00 [INFO] relevant_experience_: Three years in similar role with demonstrated success completing similar projects. Proven team player with the ability to work in matrixed environment. Solid exposure to upper management.
+10:30:00 [INFO] why_is: Not actively looking, but open to something which will offer more opportunity to lead and develop others as well as expand current knowledge base.
+10:30:00 [INFO] screening_overall: ★★★★★
+10:30:04 [INFO] name: QA Engineer
+10:30:04 [INFO] ref_: 123456789
+10:30:04 [INFO] city: Manhattan
+10:30:04 [INFO] country: United States
+10:30:04 [INFO] description: Job Description Testing
+10:30:07 [INFO] -- General information --
+10:30:07 [INFO] relevant_experience_: Three years in similar role with demonstrated success completing similar projects. Proven team player with the ability to work in matrixed environment. Solid exposure to upper management.
+10:30:07 [INFO] why_is: Not actively looking, but open to something which will offer more opportunity to lead and develop others as well as expand current knowledge base.
+10:30:07 [INFO] screening_overall: ★★★★★
+10:30:18 [INFO] name: QA Engineer
+10:30:18 [INFO] ref_: 123456789
+10:30:18 [INFO] city: Manhattan
+10:30:18 [INFO] country: United States
+10:30:18 [INFO] description: Job Description Testing
+10:30:21 [INFO] -- General information --
+10:30:24 [INFO] title: QA Engineer
+10:30:24 [INFO] company: Avature
+10:30:24 [INFO] e_mail: interview@candidate4.com
+10:30:24 [INFO] -- Work experience --
+10:30:26 [INFO] name: QA Engineer
+10:30:26 [INFO] ref_: 123456789
+10:30:26 [INFO] city: Manhattan
+10:30:26 [INFO] country: United States
+10:30:26 [INFO] description: Job Description Testing
+10:30:29 [INFO] -- General information --
+10:30:33 [INFO] Job: : QA Engineer
+10:30:33 [INFO] name: QA Engineer
+10:30:33 [INFO] ref_: 123456789
+10:30:33 [INFO] city: Manhattan
+10:30:33 [INFO] country: United States
+10:30:33 [INFO] description: Job Description Testing
+10:30:33 [INFO] Candidate Details: : =>
+10:30:33 [INFO] title: QA Engineer
+10:30:33 [INFO] company: Avature
+10:30:33 [INFO] e_mail: review@candidate10.com
+10:30:33 [INFO] Attachment/s: : =>
+10:30:33 [INFO] cover letter (cover letter ): 
+10:30:33 [INFO] Work experience: : =>
+10:30:33 [INFO] titles: ["Company", "Position title", "Is current position?", "Start date", "End date"]
+10:30:33 [INFO] values: ["Avature QA Engineer Yes Jan-2015", "Google QA Analyst No Jan-2010 Dec-2014"]
+10:30:33 [INFO] Education History: : =>
+10:30:33 [INFO] titles: ["Degree name", "Type of Degree", "University", "Start Date", "End date"]
+10:30:33 [INFO] values: ["System Analyst GED UTN Jan-2003 Jan-2008", "Bachelor's Bachelor's Degree Carlos Pelegrini Jan-1996 Dec-2001"]
+10:30:33 [INFO] Screening Notes: : =>
+10:30:33 [INFO] relevant_experience_: Three years in similar role with demonstrated success completing similar projects. Proven team player with the ability to work in matrixed environment. Solid exposure to upper management.
+10:30:33 [INFO] why_is: Not actively looking, but open to something which will offer more opportunity to lead and develop others as well as expand current knowledge base.
+10:30:33 [INFO] screening_overall: ★★★★★
+10:30:36 [INFO] title: QA Engineer
+10:30:36 [INFO] company: Avature
+10:30:36 [INFO] e_mail: interview@candidate14.com
+10:30:36 [INFO] -- Work experience --
+10:30:37 [INFO] titles: ["Company", "Position title", "Is current position?", "Start date", "End date"]
+10:30:37 [INFO] values: ["Avature QA Engineer Yes Jan-2015", "Google QA Analyst No Jan-2010 Dec-2014"]
+10:30:37 [INFO] -- Education History --
+10:30:47 [INFO] title: QA Engineer
+10:30:47 [INFO] company: Avature
+10:30:47 [INFO] e_mail: interview@candidate17.com
+10:30:47 [INFO] -- Work experience --
+10:30:47 [INFO] titles: ["Company", "Position title", "Is current position?", "Start date", "End date"]
+10:30:47 [INFO] values: ["Avature QA Engineer Yes Jan-2015", "Google QA Analyst No Jan-2010 Dec-2014"]
+10:30:47 [INFO] -- Education History --
+10:30:50 [INFO] titles: ["Degree name", "Type of Degree", "University", "Start Date", "End date"]
+10:30:50 [INFO] values: ["System Analyst GED UTN Jan-2003 Jan-2008", "Bachelor's Bachelor's Degree Carlos Pelegrini Jan-1996 Dec-2001"]
+10:30:50 [INFO] -- Screening Notes --
+10:30:52 [INFO] == Profile data updated: ==
+10:30:59 [INFO] titles: ["Company", "Position title", "Is current position?", "Start date", "End date"]
+10:30:59 [INFO] values: ["Avature QA Engineer Yes Jan-2015", "Google QA Analyst No Jan-2010 Dec-2014"]
+10:30:59 [INFO] -- Education History --
+10:31:00 [INFO] titles: ["Degree name", "Type of Degree", "University", "Start Date", "End date"]
+10:31:00 [INFO] values: ["System Analyst GED UTN Jan-2003 Jan-2008", "Bachelor's Bachelor's Degree Carlos Pelegrini Jan-1996 Dec-2001"]
+10:31:00 [INFO] -- Screening Notes --
+10:31:01 [INFO] relevant_experience_: Three years in similar role with demonstrated success completing similar projects. Proven team player with the ability to work in matrixed environment. Solid exposure to upper management.
+10:31:01 [INFO] why_is: Not actively looking, but open to something which will offer more opportunity to lead and develop others as well as expand current knowledge base.
+10:31:01 [INFO] screening_overall: ★★★★★
+10:31:11 [INFO] relevant_experience_: Three years in similar role with demonstrated success completing similar projects. Proven team player with the ability to work in matrixed environment. Solid exposure to upper management.
+10:31:11 [INFO] why_is: Not actively looking, but open to something which will offer more opportunity to lead and develop others as well as expand current knowledge base.
+10:31:11 [INFO] screening_overall: ★★★★★
+10:31:11 [INFO] titles: ["Degree name", "Type of Degree", "University", "Start Date", "End date"]
+10:31:11 [INFO] values: ["System Analyst GED UTN Jan-2003 Jan-2008", "Bachelor's Bachelor's Degree Carlos Pelegrini Jan-1996 Dec-2001"]
+10:31:11 [INFO] -- Screening Notes --
+10:31:21 [INFO] first_name_: Berneice
+10:31:21 [INFO] last_name_: Harris
+10:31:21 [INFO] email_: user.hm1@avature.net
+10:31:21 [INFO] mobile_phone_: (685) 644-2948
+10:31:21 [INFO] street_: Friesen Drives
+10:31:21 [INFO] city_: Alejandrinside
+10:31:21 [INFO] state_: Minnesota
+10:31:21 [INFO] country_: United States
+10:31:21 [INFO] website_: crist.info
+10:31:22 [INFO] relevant_experience_: Three years in similar role with demonstrated success completing similar projects. Proven team player with the ability to work in matrixed environment. Solid exposure to upper management.
+10:31:22 [INFO] why_is: Not actively looking, but open to something which will offer more opportunity to lead and develop others as well as expand current knowledge base.
+10:31:22 [INFO] screening_overall: ★★★★★
+10:31:31 [INFO] Job: : QA Engineer
+10:31:31 [INFO] name: QA Engineer
+10:31:31 [INFO] ref_: 123456789
+10:31:31 [INFO] city: Manhattan
+10:31:31 [INFO] country: United States
+10:31:31 [INFO] description: Job Description Testing
+10:31:31 [INFO] -- General information -- Validations
+10:31:39 [INFO] Job: : QA Engineer
+10:31:39 [INFO] name: QA Engineer
+10:31:39 [INFO] ref_: 123456789
+10:31:39 [INFO] city: Manhattan
+10:31:39 [INFO] country: United States
+10:31:39 [INFO] description: Job Description Testing
+10:31:39 [INFO] -- General information -- Validations
+10:31:51 [INFO] Job: : QA Engineer
+10:31:51 [INFO] name: QA Engineer
+10:31:51 [INFO] ref_: 123456789
+10:31:51 [INFO] city: Manhattan
+10:31:51 [INFO] country: United States
+10:31:51 [INFO] description: Job Description Testing
+10:31:51 [INFO] -- General information -- Validations
+10:32:53 [INFO] Searching for: '14, Test Candidate Interview'
+10:33:08 [INFO] Searching for: '17, Test Candidate Interview'
+10:33:35 [INFO] Other Candidates Detail page loaded.
+10:33:40 [INFO] Getting linked Job info
+10:33:52 [INFO] Other Candidates Detail page loaded.
+10:33:57 [INFO] Getting linked Job info
+10:34:09 [INFO] name: QA Engineer
+10:34:09 [INFO] ref_: 123456789
+10:34:09 [INFO] city: Manhattan
+10:34:09 [INFO] country: United States
+10:34:09 [INFO] description: Job Description Testing
+10:34:29 [INFO] title: QA Engineer
+10:34:29 [INFO] company: Avature
+10:34:29 [INFO] e_mail: interview@candidate14.com
+10:34:31 [INFO] name: QA Engineer
+10:34:31 [INFO] ref_: 123456789
+10:34:31 [INFO] city: Manhattan
+10:34:31 [INFO] country: United States
+10:34:31 [INFO] description: Job Description Testing
+10:34:41 [INFO] titles: ["Company", "Position title", "Is current position?", "Start date", "End date"]
+10:34:41 [INFO] values: ["Avature QA Engineer Yes Jan-2015", "Google QA Analyst No Jan-2010 Dec-2014"]
+10:34:51 [INFO] title: QA Engineer
+10:34:51 [INFO] company: Avature
+10:34:51 [INFO] e_mail: interview@candidate17.com
+10:34:52 [INFO] titles: ["Degree name", "Type of Degree", "University", "Start Date", "End date"]
+10:34:52 [INFO] values: ["System Analyst GED UTN Jan-2003 Jan-2008", "Bachelor's Bachelor's Degree Carlos Pelegrini Jan-1996 Dec-2001"]
+10:35:02 [INFO] titles: ["Company", "Position title", "Is current position?", "Start date", "End date"]
+10:35:02 [INFO] values: ["Avature QA Engineer Yes Jan-2015", "Google QA Analyst No Jan-2010 Dec-2014"]
+10:35:14 [INFO] titles: ["Degree name", "Type of Degree", "University", "Start Date", "End date"]
+10:35:14 [INFO] values: ["System Analyst GED UTN Jan-2003 Jan-2008", "Bachelor's Bachelor's Degree Carlos Pelegrini Jan-1996 Dec-2001"]
+10:35:17 [INFO] relevant_experience_: Three years in similar role with demonstrated success completing similar projects. Proven team player with the ability to work in matrixed environment. Solid exposure to upper management.
+10:35:17 [INFO] why_is: Not actively looking, but open to something which will offer more opportunity to lead and develop others as well as expand current knowledge base.
+10:35:17 [INFO] screening_overall: ★★★★★
+10:35:17 [INFO] skills_fit: Well organized
+10:35:17 [INFO] social_fit: Excellent social skills
+10:35:17 [INFO] experience_fit: 5 years of experience
+10:35:39 [INFO] relevant_experience_: Three years in similar role with demonstrated success completing similar projects. Proven team player with the ability to work in matrixed environment. Solid exposure to upper management.
+10:35:39 [INFO] why_is: Not actively looking, but open to something which will offer more opportunity to lead and develop others as well as expand current knowledge base.
+10:35:39 [INFO] screening_overall: ★★★★★
+10:35:39 [INFO] skills_fit: Poor organization
+10:35:39 [INFO] social_fit: Medium social skills
+10:35:39 [INFO] experience_fit: 2 years of experience
+10:35:46 [INFO] Job: : QA Engineer
+10:35:46 [INFO] name: QA Engineer
+10:35:46 [INFO] ref_: 123456789
+10:35:46 [INFO] city: Manhattan
+10:35:46 [INFO] country: United States
+10:35:46 [INFO] description: Job Description Testing
+10:35:46 [INFO] Candidate Details: : =>
+10:35:46 [INFO] title: QA Engineer
+10:35:46 [INFO] company: Avature
+10:35:46 [INFO] e_mail: interview@candidate14.com
+10:35:46 [INFO] Attachment/s: : =>
+10:35:46 [INFO] cover letter (cover letter ): 
+10:35:46 [INFO] Work experience: : =>
+10:35:46 [INFO] titles: ["Company", "Position title", "Is current position?", "Start date", "End date"]
+10:35:46 [INFO] values: ["Avature QA Engineer Yes Jan-2015", "Google QA Analyst No Jan-2010 Dec-2014"]
+10:35:46 [INFO] Education History: : =>
+10:35:46 [INFO] titles: ["Degree name", "Type of Degree", "University", "Start Date", "End date"]
+10:35:46 [INFO] values: ["System Analyst GED UTN Jan-2003 Jan-2008", "Bachelor's Bachelor's Degree Carlos Pelegrini Jan-1996 Dec-2001"]
+10:36:06 [INFO] Job: : QA Engineer
+10:36:06 [INFO] name: QA Engineer
+10:36:06 [INFO] ref_: 123456789
+10:36:06 [INFO] city: Manhattan
+10:36:06 [INFO] country: United States
+10:36:06 [INFO] description: Job Description Testing
+10:36:06 [INFO] Candidate Details: : =>
+10:36:06 [INFO] title: QA Engineer
+10:36:06 [INFO] company: Avature
+10:36:06 [INFO] e_mail: interview@candidate17.com
+10:36:06 [INFO] Attachment/s: : =>
+10:36:06 [INFO] cover letter (cover letter ): 
+10:36:06 [INFO] Work experience: : =>
+10:36:06 [INFO] titles: ["Company", "Position title", "Is current position?", "Start date", "End date"]
+10:36:06 [INFO] values: ["Avature QA Engineer Yes Jan-2015", "Google QA Analyst No Jan-2010 Dec-2014"]
+10:36:06 [INFO] Education History: : =>
+10:36:06 [INFO] titles: ["Degree name", "Type of Degree", "University", "Start Date", "End date"]
+10:36:06 [INFO] values: ["System Analyst GED UTN Jan-2003 Jan-2008", "Bachelor's Bachelor's Degree Carlos Pelegrini Jan-1996 Dec-2001"]
+10:46:24 [DEBUG] Scenario: | successfully reject candidate pending to review
+10:46:24 [DEBUG] Scenario: | successfully approve job
+10:46:24 [DEBUG] Scenario: | successfully view candidate offer details
+10:46:24 [DEBUG] Scenario: | successfully view candidate to review details
+10:46:24 [DEBUG] Scenario: | successfully reject candidate offer
+10:46:24 [DEBUG] Scenario: | successfully view job details
+10:46:25 [DEBUG] Scenario: | successfully reject job
+10:46:25 [DEBUG] Scenario: | successfully approve candidate pending to review
+10:46:25 [DEBUG] Scenario: | successfully login
+10:46:25 [DEBUG] Scenario: | successfully approve candidate offer
+10:47:47 [INFO] Searching for: '5, Test Candidate Offer'
+10:47:50 [INFO] Searching for: '5, Test Candidate Review'
+10:47:50 [INFO] Searching for: '4, Test Candidate Offer'
+10:47:51 [INFO] Searching for: '8, Test Candidate Review'
+10:48:41 [INFO] Getting linked Job info
+10:48:44 [INFO] Getting linked Job info
+10:49:09 [DEBUG] Scenario: | login fail
+10:49:10 [INFO] Searching for: '20, Test Candidate Review'
+10:49:11 [INFO] -- Candidates to Review Detail --
+10:49:11 [INFO] -- Linked Job --
+10:49:12 [INFO] Getting linked Job info
+10:49:13 [INFO] name: QA Engineer
+10:49:13 [INFO] ref_: 123456789
+10:49:13 [INFO] city: Manhattan
+10:49:13 [INFO] country: United States
+10:49:13 [INFO] description: Job Description Testing
+10:49:14 [INFO] -- Candidates to Review Detail --
+10:49:14 [INFO] -- Linked Job --
+10:49:15 [INFO] Getting linked Job info
+10:49:16 [INFO] name: QA Engineer
+10:49:16 [INFO] ref_: 123456789
+10:49:16 [INFO] city: Manhattan
+10:49:16 [INFO] country: United States
+10:49:16 [INFO] description: Job Description Testing
+10:49:32 [INFO] Requisitions to approve page loaded.
+10:49:32 [INFO] title: QA Engineer
+10:49:32 [INFO] company: Avature
+10:49:32 [INFO] e_mail: offer@candidate5.com
+10:49:35 [INFO] Job: : QA Engineer
+10:49:35 [INFO] name: QA Engineer
+10:49:35 [INFO] ref_: 123456789
+10:49:35 [INFO] city: Manhattan
+10:49:35 [INFO] country: United States
+10:49:35 [INFO] description: Job Description Testing
+10:49:35 [INFO] Attachment/s: : =>
+10:49:35 [INFO] 795_offer letter.pdf (offer ): 
+10:49:35 [INFO] title: QA Engineer
+10:49:35 [INFO] company: Avature
+10:49:35 [INFO] e_mail: offer@candidate4.com
+10:49:39 [INFO] Requisitions to approve page loaded.
+10:49:40 [INFO] Job: : QA Engineer
+10:49:40 [INFO] name: QA Engineer
+10:49:40 [INFO] ref_: 123456789
+10:49:40 [INFO] city: Manhattan
+10:49:40 [INFO] country: United States
+10:49:40 [INFO] description: Job Description Testing
+10:49:40 [INFO] Attachment/s: : =>
+10:49:40 [INFO] 794_offer letter.pdf (offer ): 
+10:49:40 [INFO] name: QA Engineer
+10:49:40 [INFO] ref_: 123456789
+10:49:40 [INFO] city: Manhattan
+10:49:40 [INFO] country: United States
+10:49:40 [INFO] description: Job Description Testing
+10:49:42 [DEBUG] Scenario: | reset password
+10:49:43 [INFO] -- General information --
+10:49:47 [INFO] name: QA Engineer
+10:49:47 [INFO] ref_: 123456789
+10:49:47 [INFO] city: Manhattan
+10:49:47 [INFO] country: United States
+10:49:47 [INFO] description: Job Description Testing
+10:49:49 [INFO] -- General information --
+10:49:55 [INFO] Searching for: 'Cashier'
+10:49:58 [INFO] title: QA Engineer
+10:49:58 [INFO] company: Avature
+10:49:58 [INFO] e_mail: review@candidate8.com
+10:49:58 [INFO] -- Work experience --
+10:50:07 [INFO] title: QA Engineer
+10:50:07 [INFO] company: Avature
+10:50:07 [INFO] e_mail: review@candidate5.com
+10:50:07 [INFO] -- Work experience --
+10:50:07 [INFO] Searching for: '17, Test Candidate Offer'
+10:50:08 [INFO] Requisitions to approve page loaded.
+10:50:11 [INFO] titles: ["Company", "Position title", "Is current position?", "Start date", "End date"]
+10:50:11 [INFO] values: ["Avature QA Engineer Yes Jan-2015", "Google QA Analyst No Jan-2010 Dec-2014"]
+10:50:11 [INFO] -- Education History --
+10:50:14 [INFO] Displaying results for keyword: 'Cashier'
+10:50:19 [INFO] titles: ["Company", "Position title", "Is current position?", "Start date", "End date"]
+10:50:19 [INFO] values: ["Avature QA Engineer Yes Jan-2015", "Google QA Analyst No Jan-2010 Dec-2014"]
+10:50:19 [INFO] -- Education History --
+10:50:23 [INFO] titles: ["Degree name", "Type of Degree", "University", "Start Date", "End date"]
+10:50:23 [INFO] values: ["System Analyst GED UTN Jan-2003 Jan-2008", "Bachelor's Bachelor's Degree Carlos Pelegrini Jan-1996 Dec-2001"]
+10:50:23 [INFO] -- Screening Notes --
+10:50:25 [INFO] Searching for: '4, Test Candidate Offer'
+10:50:27 [INFO] Requisitions to approve page loaded.
+10:50:31 [INFO] -- Candidates to Review Detail --
+10:50:31 [INFO] -- Linked Job --
+10:50:31 [INFO] Getting linked Job info
+10:50:32 [INFO] titles: ["Degree name", "Type of Degree", "University", "Start Date", "End date"]
+10:50:32 [INFO] values: ["System Analyst GED UTN Jan-2003 Jan-2008", "Bachelor's Bachelor's Degree Carlos Pelegrini Jan-1996 Dec-2001"]
+10:50:32 [INFO] -- Screening Notes --
+10:50:33 [DEBUG] Scenario: | log out
+10:50:35 [INFO] Requisitions to approve page loaded.
+10:50:35 [INFO] relevant_experience_: Three years in similar role with demonstrated success completing similar projects. Proven team player with the ability to work in matrixed environment. Solid exposure to upper management.
+10:50:35 [INFO] why_is: Not actively looking, but open to something which will offer more opportunity to lead and develop others as well as expand current knowledge base.
+10:50:35 [INFO] screening_overall: ★★★★★
+10:50:35 [INFO] Job: : QA Engineer
+10:50:43 [INFO] Requisitions to approve page loaded.
+10:50:43 [INFO] relevant_experience_: Three years in similar role with demonstrated success completing similar projects. Proven team player with the ability to work in matrixed environment. Solid exposure to upper management.
+10:50:43 [INFO] why_is: Not actively looking, but open to something which will offer more opportunity to lead and develop others as well as expand current knowledge base.
+10:50:43 [INFO] screening_overall: ★★★★★
+10:50:43 [INFO] Job: : QA Engineer
+10:50:49 [INFO] Searching for: 'Archaeologist'
+10:50:51 [INFO] Requisitions to approve page loaded.
+10:50:51 [DEBUG] Scenario: | successfully create a job from scratch
+10:51:01 [INFO] Requisitions to approve page loaded.
+10:51:01 [INFO] name: QA Engineer
+10:51:01 [INFO] ref_: 123456789
+10:51:01 [INFO] city: Manhattan
+10:51:01 [INFO] country: United States
+10:51:01 [INFO] description: Job Description Testing
+10:51:04 [INFO] -- General information --
+10:51:05 [INFO] Candidates To Review Success page loaded.
+10:51:05 [INFO] Searching for: 'Clown'
+10:51:06 [INFO] Displaying results for keyword: 'Archaeologist'
+10:51:06 [INFO] Getting linked Job info
+10:51:07 [INFO] Other Candidates Detail page loaded.
+10:51:12 [INFO] ref_: 423456804
+10:51:12 [INFO] city: Manhattan
+10:51:12 [INFO] country: United States
+10:51:12 [INFO] recruiter: Armstrong, Elnora
+10:51:12 [INFO] position_level: Analyst
+10:51:12 [INFO] working_time: Full-time
+10:51:12 [INFO] type_of_contract: Permanent
+10:51:12 [INFO] reason_for_opening: New Position
+10:51:16 [INFO] Getting linked Job info
+10:51:19 [INFO] title: QA Engineer
+10:51:19 [INFO] company: Avature
+10:51:19 [INFO] e_mail: review@candidate20.com
+10:51:19 [INFO] -- Work experience --
+10:51:20 [INFO] Requisitions to approve page loaded.
+10:51:21 [DEBUG] Scenario: | successfully create a job from a job template
+10:51:23 [INFO] Candidates To Review Success page loaded.
+10:51:25 [INFO] Displaying results for keyword: 'Clown'
+10:51:34 [INFO] titles: ["Company", "Position title", "Is current position?", "Start date", "End date"]
+10:51:34 [INFO] values: ["Avature QA Engineer Yes Jan-2015", "Google QA Analyst No Jan-2010 Dec-2014"]
+10:51:34 [INFO] -- Education History --
+10:51:35 [INFO] Searching for: '8, Test Candidate Review'
+10:51:36 [INFO] name: QA Engineer
+10:51:36 [INFO] ref_: 123456789
+10:51:36 [INFO] city: Manhattan
+10:51:36 [INFO] country: United States
+10:51:36 [INFO] description: Job Description Testing
+10:51:45 [INFO] titles: ["Degree name", "Type of Degree", "University", "Start Date", "End date"]
+10:51:45 [INFO] values: ["System Analyst GED UTN Jan-2003 Jan-2008", "Bachelor's Bachelor's Degree Carlos Pelegrini Jan-1996 Dec-2001"]
+10:51:45 [INFO] -- Screening Notes --
+10:51:47 [INFO] Searching for: '5, Test Candidate Review'
+10:51:48 [INFO] name: QA Engineer
+10:51:48 [INFO] ref_: 123456789
+10:51:48 [INFO] city: Manhattan
+10:51:48 [INFO] country: United States
+10:51:48 [INFO] description: Job Description Testing
+10:51:54 [INFO] title: QA Engineer
+10:51:54 [INFO] company: Avature
+10:51:54 [INFO] e_mail: offer@candidate17.com
+10:51:57 [INFO] relevant_experience_: Three years in similar role with demonstrated success completing similar projects. Proven team player with the ability to work in matrixed environment. Solid exposure to upper management.
+10:51:57 [INFO] why_is: Not actively looking, but open to something which will offer more opportunity to lead and develop others as well as expand current knowledge base.
+10:51:57 [INFO] screening_overall: ★★★★★
+10:51:57 [INFO] Job: : QA Engineer
+10:51:58 [INFO] Job: : QA Engineer
+10:51:58 [INFO] name: QA Engineer
+10:51:58 [INFO] ref_: 123456789
+10:51:58 [INFO] city: Manhattan
+10:51:58 [INFO] country: United States
+10:51:58 [INFO] description: Job Description Testing
+10:51:58 [INFO] Attachment/s: : =>
+10:51:58 [INFO] 807_offer letter.pdf (offer ): 
+10:52:03 [INFO] ref_: 423456792
+10:52:03 [INFO] city: Manhattan
+10:52:03 [INFO] country: United States
+10:52:03 [INFO] recruiter: Armstrong, Elnora
+10:52:03 [INFO] position_level: Analyst
+10:52:03 [INFO] working_time: Full-time
+10:52:03 [INFO] type_of_contract: Permanent
+10:52:03 [INFO] reason_for_opening: New Position
+10:52:04 [DEBUG] Scenario: | Successfully add a delegate
+10:52:06 [DEBUG] Scenario: | successfully view interview feedback candidate details
+10:52:07 [INFO] title: QA Engineer
+10:52:07 [INFO] company: Avature
+10:52:07 [INFO] e_mail: offer@candidate4.com
+10:52:10 [INFO] Job: : QA Engineer
+10:52:10 [INFO] name: QA Engineer
+10:52:10 [INFO] ref_: 123456789
+10:52:10 [INFO] city: Manhattan
+10:52:10 [INFO] country: United States
+10:52:10 [INFO] description: Job Description Testing
+10:52:10 [INFO] Candidate Details: : =>
+10:52:10 [INFO] title: QA Engineer
+10:52:10 [INFO] company: Avature
+10:52:10 [INFO] e_mail: offer@candidate4.com
+10:52:10 [INFO] Attachment/s: : =>
+10:52:10 [INFO] 794_offer letter.pdf (offer ): 
+10:52:16 [INFO] -- Other candidates Detail --
+10:52:17 [DEBUG] Scenario: | successfully approve interview feedback candidate
+10:52:18 [INFO] Other Candidates Detail page loaded.
+10:52:23 [INFO] -- Linked Job --
+10:52:24 [INFO] ref_: 423456806
+10:52:24 [INFO] city: Manhattan
+10:52:24 [INFO] country: United States
+10:52:24 [INFO] recruiter: Armstrong, Elnora
+10:52:24 [INFO] position_level: Analyst
+10:52:24 [INFO] working_time: Full-time
+10:52:24 [INFO] type_of_contract: Permanent
+10:52:24 [INFO] reason_for_opening: New Position
+10:52:24 [INFO] Getting linked Job info
+10:52:27 [INFO] -- Other candidates Detail --
+10:52:29 [INFO] Other Candidates Detail page loaded.
+10:52:37 [INFO] -- Linked Job --
+10:52:38 [INFO] Getting linked Job info
+10:52:41 [INFO] job_template_name: QA Analyst
+10:52:41 [INFO] position_title: QA Analyst New York
+10:52:41 [INFO] location: {:country=>"United States", :state=>"New York", :city=>"Manhattan"}
+10:52:41 [INFO] num_of_openings: 99999999
+10:52:41 [INFO] position_level: Analyst
+10:52:41 [INFO] department: Manufacturing
+10:52:41 [INFO] recruiter: Armstrong, Elnora
+10:52:48 [INFO] Searching for: '17, Test Candidate Offer'
+10:52:48 [INFO] Requisitions to approve page loaded.
+10:52:54 [INFO] name: QA Engineer
+10:52:54 [INFO] ref_: 123456789
+10:52:54 [INFO] city: Manhattan
+10:52:54 [INFO] country: United States
+10:52:54 [INFO] description: Job Description Testing
+10:52:57 [INFO] -- General information --
+10:53:01 [INFO] position_title: Chief Planner
+10:53:01 [INFO] location: {:country=>"United States", :state=>"Minnesota", :city=>"New Nigel"}
+10:53:01 [INFO] reason: New Position
+10:53:01 [INFO] num_of_openings: 6
+10:53:01 [INFO] position_level: Intern
+10:53:01 [INFO] department: Sales
+10:53:01 [INFO] recruiter: Armstrong, Elnora
+10:53:02 [INFO] Requisitions to approve page loaded.
+10:53:03 [WARN] Scroll to element not supported.
+10:53:06 [INFO] Searching for: 'Archaeologist'
+10:53:09 [INFO] name: QA Engineer
+10:53:09 [INFO] ref_: 123456789
+10:53:09 [INFO] city: Manhattan
+10:53:09 [INFO] country: United States
+10:53:09 [INFO] description: Job Description Testing
+10:53:11 [INFO] -- General information --
+10:53:12 [DEBUG] Scenario: | successfully reject interview feedback candidate
+10:53:13 [INFO] The element disappear or is stale
+10:53:13 [INFO] title: QA Engineer
+10:53:13 [INFO] company: Avature
+10:53:13 [INFO] e_mail: review@candidate8.com
+10:53:13 [INFO] -- Work experience --
+10:53:15 [DEBUG] Scenario: | Successfully edit profile
+10:53:16 [INFO] Searching for: 'Clown'
+10:53:20 [ERROR] Bug State is not retrieved, this case need to be solved: https://teg.avature.net/#Case/437228
+10:53:22 [WARN] Scroll to element not supported.
+10:53:24 [INFO] titles: ["Company", "Position title", "Is current position?", "Start date", "End date"]
+10:53:24 [INFO] values: ["Avature QA Engineer Yes Jan-2015", "Google QA Analyst No Jan-2010 Dec-2014"]
+10:53:24 [INFO] -- Education History --
+10:53:28 [INFO] Other Candidates Detail page loaded.
+10:53:29 [INFO] The element disappear or is stale
+10:53:30 [INFO] title: QA Engineer
+10:53:30 [INFO] company: Avature
+10:53:30 [INFO] e_mail: review@candidate5.com
+10:53:30 [INFO] -- Work experience --
+10:53:34 [INFO] Getting linked Job info
+10:53:36 [INFO] titles: ["Degree name", "Type of Degree", "University", "Start Date", "End date"]
+10:53:36 [INFO] values: ["System Analyst GED UTN Jan-2003 Jan-2008", "Bachelor's Bachelor's Degree Carlos Pelegrini Jan-1996 Dec-2001"]
+10:53:36 [INFO] -- Screening Notes --
+10:53:42 [INFO] titles: ["Company", "Position title", "Is current position?", "Start date", "End date"]
+10:53:42 [INFO] values: ["Avature QA Engineer Yes Jan-2015", "Google QA Analyst No Jan-2010 Dec-2014"]
+10:53:42 [INFO] -- Education History --
+10:53:44 [INFO] Searching for: '19, Test Candidate Interview'
+10:53:47 [INFO] relevant_experience_: Three years in similar role with demonstrated success completing similar projects. Proven team player with the ability to work in matrixed environment. Solid exposure to upper management.
+10:53:47 [INFO] why_is: Not actively looking, but open to something which will offer more opportunity to lead and develop others as well as expand current knowledge base.
+10:53:47 [INFO] screening_overall: ★★★★★
+10:53:54 [INFO] titles: ["Degree name", "Type of Degree", "University", "Start Date", "End date"]
+10:53:54 [INFO] values: ["System Analyst GED UTN Jan-2003 Jan-2008", "Bachelor's Bachelor's Degree Carlos Pelegrini Jan-1996 Dec-2001"]
+10:53:54 [INFO] -- Screening Notes --
+10:53:56 [INFO] OpenRequisitionsDetail page loaded.
+10:54:04 [INFO] name: QA Engineer
+10:54:04 [INFO] ref_: 123456789
+10:54:04 [INFO] city: Manhattan
+10:54:04 [INFO] country: United States
+10:54:04 [INFO] description: Job Description Testing
+10:54:05 [INFO] relevant_experience_: Three years in similar role with demonstrated success completing similar projects. Proven team player with the ability to work in matrixed environment. Solid exposure to upper management.
+10:54:05 [INFO] why_is: Not actively looking, but open to something which will offer more opportunity to lead and develop others as well as expand current knowledge base.
+10:54:05 [INFO] screening_overall: ★★★★★
+10:54:15 [INFO] Job: : QA Engineer
+10:54:15 [INFO] name: QA Engineer
+10:54:15 [INFO] ref_: 123456789
+10:54:15 [INFO] city: Manhattan
+10:54:15 [INFO] country: United States
+10:54:15 [INFO] description: Job Description Testing
+10:54:15 [INFO] Candidate Details: : =>
+10:54:15 [INFO] title: QA Engineer
+10:54:15 [INFO] company: Avature
+10:54:15 [INFO] e_mail: review@candidate8.com
+10:54:15 [INFO] Attachment/s: : =>
+10:54:15 [INFO] cover letter (cover letter ): 
+10:54:15 [INFO] Work experience: : =>
+10:54:15 [INFO] titles: ["Company", "Position title", "Is current position?", "Start date", "End date"]
+10:54:15 [INFO] values: ["Avature QA Engineer Yes Jan-2015", "Google QA Analyst No Jan-2010 Dec-2014"]
+10:54:15 [INFO] Education History: : =>
+10:54:15 [INFO] titles: ["Degree name", "Type of Degree", "University", "Start Date", "End date"]
+10:54:15 [INFO] values: ["System Analyst GED UTN Jan-2003 Jan-2008", "Bachelor's Bachelor's Degree Carlos Pelegrini Jan-1996 Dec-2001"]
+10:54:15 [INFO] Screening Notes: : =>
+10:54:15 [INFO] relevant_experience_: Three years in similar role with demonstrated success completing similar projects. Proven team player with the ability to work in matrixed environment. Solid exposure to upper management.
+10:54:15 [INFO] why_is: Not actively looking, but open to something which will offer more opportunity to lead and develop others as well as expand current knowledge base.
+10:54:15 [INFO] screening_overall: ★★★★★
+10:54:16 [INFO] ref_: 423456792
+10:54:16 [INFO] city: Manhattan
+10:54:16 [INFO] country: United States
+10:54:16 [INFO] recruiter: Armstrong, Elnora
+10:54:16 [INFO] position_level: Analyst
+10:54:16 [INFO] working_time: Full-time
+10:54:16 [INFO] type_of_contract: Permanent
+10:54:16 [INFO] reason_for_opening: New Position
+10:54:24 [INFO] title: QA Engineer
+10:54:24 [INFO] company: Avature
+10:54:24 [INFO] e_mail: offer@candidate17.com
+10:54:24 [INFO] ref_: 423456806
+10:54:24 [INFO] city: Manhattan
+10:54:24 [INFO] country: United States
+10:54:24 [INFO] recruiter: Armstrong, Elnora
+10:54:24 [INFO] position_level: Analyst
+10:54:24 [INFO] working_time: Full-time
+10:54:24 [INFO] type_of_contract: Permanent
+10:54:24 [INFO] reason_for_opening: New Position
+10:54:24 [INFO] Job validations
+10:54:28 [INFO] Job: : QA Engineer
+10:54:28 [INFO] name: QA Engineer
+10:54:28 [INFO] ref_: 123456789
+10:54:28 [INFO] city: Manhattan
+10:54:28 [INFO] country: United States
+10:54:28 [INFO] description: Job Description Testing
+10:54:28 [INFO] Candidate Details: : =>
+10:54:28 [INFO] title: QA Engineer
+10:54:28 [INFO] company: Avature
+10:54:28 [INFO] e_mail: offer@candidate17.com
+10:54:28 [INFO] Attachment/s: : =>
+10:54:28 [INFO] 807_offer letter.pdf (offer ): 
+10:54:28 [INFO] Searching for: '4, Test Candidate Interview'
+10:54:28 [INFO] == Profile data before update: ==
+10:54:31 [INFO] Job: : QA Engineer
+10:54:31 [INFO] name: QA Engineer
+10:54:31 [INFO] ref_: 123456789
+10:54:31 [INFO] city: Manhattan
+10:54:31 [INFO] country: United States
+10:54:31 [INFO] description: Job Description Testing
+10:54:31 [INFO] Candidate Details: : =>
+10:54:31 [INFO] title: QA Engineer
+10:54:31 [INFO] company: Avature
+10:54:31 [INFO] e_mail: review@candidate5.com
+10:54:31 [INFO] Attachment/s: : =>
+10:54:31 [INFO] cover letter (cover letter ): 
+10:54:31 [INFO] Work experience: : =>
+10:54:31 [INFO] titles: ["Company", "Position title", "Is current position?", "Start date", "End date"]
+10:54:31 [INFO] values: ["Avature QA Engineer Yes Jan-2015", "Google QA Analyst No Jan-2010 Dec-2014"]
+10:54:31 [INFO] Education History: : =>
+10:54:31 [INFO] titles: ["Degree name", "Type of Degree", "University", "Start Date", "End date"]
+10:54:31 [INFO] values: ["System Analyst GED UTN Jan-2003 Jan-2008", "Bachelor's Bachelor's Degree Carlos Pelegrini Jan-1996 Dec-2001"]
+10:54:31 [INFO] Screening Notes: : =>
+10:54:31 [INFO] relevant_experience_: Three years in similar role with demonstrated success completing similar projects. Proven team player with the ability to work in matrixed environment. Solid exposure to upper management.
+10:54:31 [INFO] why_is: Not actively looking, but open to something which will offer more opportunity to lead and develop others as well as expand current knowledge base.
+10:54:31 [INFO] screening_overall: ★★★★★
+10:54:31 [INFO] -- Interview feedback Detail --
+10:54:31 [INFO] -- Linked Job --
+10:54:32 [INFO] Getting linked Job info
+10:54:58 [INFO] first_name_: Berneice
+10:54:58 [INFO] last_name_: Harris
+10:54:58 [INFO] email_: user.hm1@avature.net
+10:54:58 [INFO] mobile_phone_: (685) 644-2948
+10:54:58 [INFO] street_: Friesen Drives
+10:54:58 [INFO] city_: Alejandrinside
+10:54:58 [INFO] state_: Minnesota
+10:54:58 [INFO] country_: United States
+10:54:58 [INFO] website_: crist.info
+10:55:02 [INFO] name: QA Engineer
+10:55:02 [INFO] ref_: 123456789
+10:55:02 [INFO] city: Manhattan
+10:55:02 [INFO] country: United States
+10:55:02 [INFO] description: Job Description Testing
+10:55:05 [INFO] -- General information --
+10:55:09 [INFO] == Profile data to update: ==
+10:55:09 [INFO] email_home: ruth@kunde.info
+10:55:09 [INFO] email_work: haie@considine.com
+10:55:09 [INFO] phone_work: 112.143.3200
+10:55:09 [INFO] phone_mobile: 632-745-2508
+10:55:09 [INFO] website: bednargislason.org
+10:55:09 [INFO] location: {:country=>"United States", :address=>"Maida Meadow", :city=>"Fishermouth", :state=>"Ohio"}
+10:55:18 [INFO] -- Interview feedback Detail --
+10:55:18 [INFO] -- Linked Job --
+10:55:19 [INFO] Getting linked Job info
+10:55:21 [INFO] title: QA Engineer
+10:55:21 [INFO] company: Avature
+10:55:21 [INFO] e_mail: interview@candidate19.com
+10:55:21 [INFO] -- Work experience --
+10:55:35 [INFO] titles: ["Company", "Position title", "Is current position?", "Start date", "End date"]
+10:55:35 [INFO] values: ["Avature QA Engineer Yes Jan-2015", "Google QA Analyst No Jan-2010 Dec-2014"]
+10:55:35 [INFO] -- Education History --
+10:55:47 [INFO] titles: ["Degree name", "Type of Degree", "University", "Start Date", "End date"]
+10:55:47 [INFO] values: ["System Analyst GED UTN Jan-2003 Jan-2008", "Bachelor's Bachelor's Degree Carlos Pelegrini Jan-1996 Dec-2001"]
+10:55:47 [INFO] -- Screening Notes --
+10:55:47 [INFO] name: QA Engineer
+10:55:47 [INFO] ref_: 123456789
+10:55:47 [INFO] city: Manhattan
+10:55:47 [INFO] country: United States
+10:55:47 [INFO] description: Job Description Testing
+10:55:50 [INFO] -- General information --
+10:55:57 [INFO] relevant_experience_: Three years in similar role with demonstrated success completing similar projects. Proven team player with the ability to work in matrixed environment. Solid exposure to upper management.
+10:55:57 [INFO] why_is: Not actively looking, but open to something which will offer more opportunity to lead and develop others as well as expand current knowledge base.
+10:55:57 [INFO] screening_overall: ★★★★★
+10:56:06 [INFO] == Profile data updated: ==
+10:56:07 [INFO] title: QA Engineer
+10:56:07 [INFO] company: Avature
+10:56:07 [INFO] e_mail: interview@candidate4.com
+10:56:07 [INFO] -- Work experience --
+10:56:19 [INFO] titles: ["Company", "Position title", "Is current position?", "Start date", "End date"]
+10:56:19 [INFO] values: ["Avature QA Engineer Yes Jan-2015", "Google QA Analyst No Jan-2010 Dec-2014"]
+10:56:19 [INFO] -- Education History --
+10:56:24 [INFO] Job: : QA Engineer
+10:56:24 [INFO] name: QA Engineer
+10:56:24 [INFO] ref_: 123456789
+10:56:24 [INFO] city: Manhattan
+10:56:24 [INFO] country: United States
+10:56:24 [INFO] description: Job Description Testing
+10:56:24 [INFO] -- General information -- Validations
+10:56:32 [INFO] titles: ["Degree name", "Type of Degree", "University", "Start Date", "End date"]
+10:56:32 [INFO] values: ["System Analyst GED UTN Jan-2003 Jan-2008", "Bachelor's Bachelor's Degree Carlos Pelegrini Jan-1996 Dec-2001"]
+10:56:32 [INFO] -- Screening Notes --
+10:56:33 [INFO] first_name_: Berneice
+10:56:33 [INFO] last_name_: Harris
+10:56:33 [INFO] email_: user.hm1@avature.net
+10:56:33 [INFO] mobile_phone_: 632-745-2508
+10:56:33 [INFO] street_: Maida Meadow
+10:56:33 [INFO] city_: Fishermouth
+10:56:33 [INFO] state_: Ohio
+10:56:33 [INFO] country_: United States
+10:56:33 [INFO] website_: bednargislason.org
+10:56:49 [INFO] relevant_experience_: Three years in similar role with demonstrated success completing similar projects. Proven team player with the ability to work in matrixed environment. Solid exposure to upper management.
+10:56:49 [INFO] why_is: Not actively looking, but open to something which will offer more opportunity to lead and develop others as well as expand current knowledge base.
+10:56:49 [INFO] screening_overall: ★★★★★
+10:57:15 [INFO] Job: : QA Engineer
+10:57:15 [INFO] name: QA Engineer
+10:57:15 [INFO] ref_: 123456789
+10:57:15 [INFO] city: Manhattan
+10:57:15 [INFO] country: United States
+10:57:15 [INFO] description: Job Description Testing
+10:57:15 [INFO] -- General information -- Validations
+10:57:26 [INFO] Searching for: '19, Test Candidate Interview'
+10:58:08 [INFO] Other Candidates Detail page loaded.
+10:58:14 [INFO] Getting linked Job info
+10:58:18 [INFO] Searching for: '4, Test Candidate Interview'
+10:58:41 [INFO] name: QA Engineer
+10:58:41 [INFO] ref_: 123456789
+10:58:41 [INFO] city: Manhattan
+10:58:41 [INFO] country: United States
+10:58:41 [INFO] description: Job Description Testing
+10:59:00 [INFO] title: QA Engineer
+10:59:00 [INFO] company: Avature
+10:59:00 [INFO] e_mail: interview@candidate19.com
+10:59:03 [INFO] Other Candidates Detail page loaded.
+10:59:11 [INFO] Getting linked Job info
+10:59:12 [INFO] titles: ["Company", "Position title", "Is current position?", "Start date", "End date"]
+10:59:12 [INFO] values: ["Avature QA Engineer Yes Jan-2015", "Google QA Analyst No Jan-2010 Dec-2014"]
+10:59:24 [INFO] titles: ["Degree name", "Type of Degree", "University", "Start Date", "End date"]
+10:59:24 [INFO] values: ["System Analyst GED UTN Jan-2003 Jan-2008", "Bachelor's Bachelor's Degree Carlos Pelegrini Jan-1996 Dec-2001"]
+10:59:43 [INFO] name: QA Engineer
+10:59:43 [INFO] ref_: 123456789
+10:59:43 [INFO] city: Manhattan
+10:59:43 [INFO] country: United States
+10:59:43 [INFO] description: Job Description Testing
+10:59:44 [INFO] relevant_experience_: Three years in similar role with demonstrated success completing similar projects. Proven team player with the ability to work in matrixed environment. Solid exposure to upper management.
+10:59:44 [INFO] why_is: Not actively looking, but open to something which will offer more opportunity to lead and develop others as well as expand current knowledge base.
+10:59:44 [INFO] screening_overall: ★★★★★
+10:59:44 [INFO] skills_fit: Well organized
+10:59:44 [INFO] social_fit: Excellent social skills
+10:59:44 [INFO] experience_fit: 5 years of experience
+11:00:01 [INFO] title: QA Engineer
+11:00:01 [INFO] company: Avature
+11:00:01 [INFO] e_mail: interview@candidate4.com
+11:00:08 [INFO] Job: : QA Engineer
+11:00:08 [INFO] name: QA Engineer
+11:00:08 [INFO] ref_: 123456789
+11:00:08 [INFO] city: Manhattan
+11:00:08 [INFO] country: United States
+11:00:08 [INFO] description: Job Description Testing
+11:00:08 [INFO] Candidate Details: : =>
+11:00:08 [INFO] title: QA Engineer
+11:00:08 [INFO] company: Avature
+11:00:08 [INFO] e_mail: interview@candidate19.com
+11:00:08 [INFO] Attachment/s: : =>
+11:00:08 [INFO] cover letter (cover letter ): 
+11:00:08 [INFO] Work experience: : =>
+11:00:08 [INFO] titles: ["Company", "Position title", "Is current position?", "Start date", "End date"]
+11:00:08 [INFO] values: ["Avature QA Engineer Yes Jan-2015", "Google QA Analyst No Jan-2010 Dec-2014"]
+11:00:08 [INFO] Education History: : =>
+11:00:08 [INFO] titles: ["Degree name", "Type of Degree", "University", "Start Date", "End date"]
+11:00:08 [INFO] values: ["System Analyst GED UTN Jan-2003 Jan-2008", "Bachelor's Bachelor's Degree Carlos Pelegrini Jan-1996 Dec-2001"]
+11:00:14 [INFO] titles: ["Company", "Position title", "Is current position?", "Start date", "End date"]
+11:00:14 [INFO] values: ["Avature QA Engineer Yes Jan-2015", "Google QA Analyst No Jan-2010 Dec-2014"]
+11:00:28 [INFO] titles: ["Degree name", "Type of Degree", "University", "Start Date", "End date"]
+11:00:28 [INFO] values: ["System Analyst GED UTN Jan-2003 Jan-2008", "Bachelor's Bachelor's Degree Carlos Pelegrini Jan-1996 Dec-2001"]
+11:00:48 [INFO] relevant_experience_: Three years in similar role with demonstrated success completing similar projects. Proven team player with the ability to work in matrixed environment. Solid exposure to upper management.
+11:00:48 [INFO] why_is: Not actively looking, but open to something which will offer more opportunity to lead and develop others as well as expand current knowledge base.
+11:00:48 [INFO] screening_overall: ★★★★★
+11:00:48 [INFO] skills_fit: Poor organization
+11:00:48 [INFO] social_fit: Medium social skills
+11:00:48 [INFO] experience_fit: 2 years of experience
+11:01:14 [INFO] Job: : QA Engineer
+11:01:14 [INFO] name: QA Engineer
+11:01:14 [INFO] ref_: 123456789
+11:01:14 [INFO] city: Manhattan
+11:01:14 [INFO] country: United States
+11:01:14 [INFO] description: Job Description Testing
+11:01:14 [INFO] Candidate Details: : =>
+11:01:14 [INFO] title: QA Engineer
+11:01:14 [INFO] company: Avature
+11:01:14 [INFO] e_mail: interview@candidate4.com
+11:01:14 [INFO] Attachment/s: : =>
+11:01:14 [INFO] cover letter (cover letter ): 
+11:01:14 [INFO] Work experience: : =>
+11:01:14 [INFO] titles: ["Company", "Position title", "Is current position?", "Start date", "End date"]
+11:01:14 [INFO] values: ["Avature QA Engineer Yes Jan-2015", "Google QA Analyst No Jan-2010 Dec-2014"]
+11:01:14 [INFO] Education History: : =>
+11:01:14 [INFO] titles: ["Degree name", "Type of Degree", "University", "Start Date", "End date"]
+11:01:14 [INFO] values: ["System Analyst GED UTN Jan-2003 Jan-2008", "Bachelor's Bachelor's Degree Carlos Pelegrini Jan-1996 Dec-2001"]
+11:31:55 [DEBUG] Scenario: | successfully reject candidate pending to review
+11:31:55 [DEBUG] Scenario: | successfully view candidate offer details
+11:31:55 [DEBUG] Scenario: | successfully view candidate to review details
+11:31:55 [DEBUG] Scenario: | successfully reject candidate offer
+11:31:55 [DEBUG] Scenario: | successfully approve candidate offer
+11:31:55 [DEBUG] Scenario: | successfully view job details
+11:31:55 [DEBUG] Scenario: | successfully reject job
+11:31:55 [DEBUG] Scenario: | successfully approve job
+11:31:55 [DEBUG] Scenario: | successfully login
+11:31:55 [DEBUG] Scenario: | successfully approve candidate pending to review
+11:33:14 [INFO] Requisitions to approve page loaded.
+11:33:15 [INFO] Requisitions to approve page loaded.
+11:33:19 [INFO] Searching for: '14, Test Candidate Review'
+11:33:21 [INFO] Requisitions to approve page loaded.
+11:33:21 [INFO] Searching for: '6, Test Candidate Offer'
+11:33:23 [INFO] Searching for: '22, Test Candidate Review'
+11:33:23 [INFO] Requisitions to approve page loaded.
+11:33:24 [INFO] Requisitions to approve page loaded.
+11:33:25 [INFO] Searching for: '20, Test Candidate Offer'
+11:33:25 [INFO] Searching for: '9, Test Candidate Offer'
+11:33:30 [INFO] Requisitions to approve page loaded.
+11:33:31 [INFO] Searching for: '22, Test Candidate Review'
+11:33:39 [INFO] Searching for: 'Counselor'
+11:33:39 [INFO] Searching for: 'Chemist'
+11:33:45 [INFO] Searching for: 'Chef'
+11:33:51 [INFO] Requisitions to approve page loaded.
+11:33:53 [INFO] Requisitions to approve page loaded.
+11:33:56 [INFO] Displaying results for keyword: 'Counselor'
+11:33:57 [INFO] Requisitions to approve page loaded.
+11:33:58 [INFO] Displaying results for keyword: 'Chemist'
+11:34:02 [INFO] Displaying results for keyword: 'Chef'
+11:34:13 [INFO] Getting linked Job info
+11:34:16 [INFO] Getting linked Job info
+11:34:17 [INFO] Getting linked Job info
+11:34:35 [INFO] -- Candidates to Review Detail --
+11:34:35 [INFO] -- Linked Job --
+11:34:36 [INFO] Getting linked Job info
+11:34:39 [INFO] -- Candidates to Review Detail --
+11:34:39 [INFO] -- Linked Job --
+11:34:40 [INFO] Getting linked Job info
+11:34:44 [INFO] name: QA Engineer
+11:34:44 [INFO] ref_: 123456789
+11:34:44 [INFO] city: Manhattan
+11:34:44 [INFO] country: United States
+11:34:44 [INFO] description: Job Description Testing
+11:34:47 [INFO] name: QA Engineer
+11:34:47 [INFO] ref_: 123456789
+11:34:47 [INFO] city: Manhattan
+11:34:47 [INFO] country: United States
+11:34:47 [INFO] description: Job Description Testing
+11:34:47 [INFO] -- Candidates to Review Detail --
+11:34:47 [INFO] -- Linked Job --
+11:34:48 [INFO] ref_: 423456810
+11:34:48 [INFO] city: Manhattan
+11:34:48 [INFO] country: United States
+11:34:48 [INFO] recruiter: Armstrong, Elnora
+11:34:48 [INFO] position_level: Analyst
+11:34:48 [INFO] working_time: Full-time
+11:34:48 [INFO] type_of_contract: Permanent
+11:34:48 [INFO] reason_for_opening: New Position
+11:34:48 [INFO] name: QA Engineer
+11:34:48 [INFO] ref_: 123456789
+11:34:48 [INFO] city: Manhattan
+11:34:48 [INFO] country: United States
+11:34:48 [INFO] description: Job Description Testing
+11:34:48 [INFO] Getting linked Job info
+11:34:53 [INFO] ref_: 423456811
+11:34:53 [INFO] city: Manhattan
+11:34:53 [INFO] country: United States
+11:34:53 [INFO] recruiter: Armstrong, Elnora
+11:34:53 [INFO] position_level: Analyst
+11:34:53 [INFO] working_time: Full-time
+11:34:53 [INFO] type_of_contract: Permanent
+11:34:53 [INFO] reason_for_opening: New Position
+11:34:55 [INFO] ref_: 423456812
+11:34:55 [INFO] city: Manhattan
+11:34:55 [INFO] country: United States
+11:34:55 [INFO] recruiter: Armstrong, Elnora
+11:34:55 [INFO] position_level: Analyst
+11:34:55 [INFO] working_time: Full-time
+11:34:55 [INFO] type_of_contract: Permanent
+11:34:55 [INFO] reason_for_opening: New Position
+11:34:57 [DEBUG] Scenario: | login fail
+11:35:03 [INFO] title: QA Engineer
+11:35:03 [INFO] company: Avature
+11:35:03 [INFO] e_mail: offer@candidate6.com
+11:35:05 [INFO] name: QA Engineer
+11:35:05 [INFO] ref_: 123456789
+11:35:05 [INFO] city: Manhattan
+11:35:05 [INFO] country: United States
+11:35:05 [INFO] description: Job Description Testing
+11:35:06 [INFO] title: QA Engineer
+11:35:06 [INFO] company: Avature
+11:35:06 [INFO] e_mail: offer@candidate9.com
+11:35:06 [INFO] Job: : QA Engineer
+11:35:06 [INFO] name: QA Engineer
+11:35:06 [INFO] ref_: 123456789
+11:35:06 [INFO] city: Manhattan
+11:35:06 [INFO] country: United States
+11:35:06 [INFO] description: Job Description Testing
+11:35:06 [INFO] Attachment/s: : =>
+11:35:06 [INFO] 796_offer letter.pdf (offer ): 
+11:35:06 [INFO] title: QA Engineer
+11:35:06 [INFO] company: Avature
+11:35:06 [INFO] e_mail: offer@candidate20.com
+11:35:08 [INFO] -- General information --
+11:35:08 [INFO] Job: : QA Engineer
+11:35:08 [INFO] name: QA Engineer
+11:35:08 [INFO] ref_: 123456789
+11:35:08 [INFO] city: Manhattan
+11:35:08 [INFO] country: United States
+11:35:08 [INFO] description: Job Description Testing
+11:35:08 [INFO] Attachment/s: : =>
+11:35:08 [INFO] 799_offer letter.pdf (offer ): 
+11:35:09 [INFO] Job: : QA Engineer
+11:35:09 [INFO] name: QA Engineer
+11:35:09 [INFO] ref_: 123456789
+11:35:09 [INFO] city: Manhattan
+11:35:09 [INFO] country: United States
+11:35:09 [INFO] description: Job Description Testing
+11:35:09 [INFO] Attachment/s: : =>
+11:35:09 [INFO] 810_offer letter.pdf (offer ): 
+11:35:10 [INFO] name: QA Engineer
+11:35:10 [INFO] ref_: 123456789
+11:35:10 [INFO] city: Manhattan
+11:35:10 [INFO] country: United States
+11:35:10 [INFO] description: Job Description Testing
+11:35:13 [INFO] -- General information --
+11:35:16 [DEBUG] Scenario: | reset password
+11:35:18 [INFO] name: QA Engineer
+11:35:18 [INFO] ref_: 123456789
+11:35:18 [INFO] city: Manhattan
+11:35:18 [INFO] country: United States
+11:35:18 [INFO] description: Job Description Testing
+11:35:21 [INFO] -- General information --
+11:35:24 [INFO] title: QA Engineer
+11:35:24 [INFO] company: Avature
+11:35:24 [INFO] e_mail: review@candidate14.com
+11:35:24 [INFO] -- Work experience --
+11:35:27 [INFO] Requisitions to approve page loaded.
+11:35:29 [INFO] title: QA Engineer
+11:35:29 [INFO] company: Avature
+11:35:29 [INFO] e_mail: review@candidate22.com
+11:35:29 [INFO] -- Work experience --
+11:35:34 [INFO] Requisitions to approve page loaded.
+11:35:36 [INFO] titles: ["Company", "Position title", "Is current position?", "Start date", "End date"]
+11:35:36 [INFO] values: ["Avature QA Engineer Yes Jan-2015", "Google QA Analyst No Jan-2010 Dec-2014"]
+11:35:36 [INFO] -- Education History --
+11:35:36 [INFO] title: QA Engineer
+11:35:36 [INFO] company: Avature
+11:35:36 [INFO] e_mail: review@candidate22.com
+11:35:36 [INFO] -- Work experience --
+11:35:40 [INFO] Searching for: 'Chemist'
+11:35:43 [INFO] titles: ["Company", "Position title", "Is current position?", "Start date", "End date"]
+11:35:43 [INFO] values: ["Avature QA Engineer Yes Jan-2015", "Google QA Analyst No Jan-2010 Dec-2014"]
+11:35:43 [INFO] -- Education History --
+11:35:49 [INFO] titles: ["Degree name", "Type of Degree", "University", "Start Date", "End date"]
+11:35:49 [INFO] values: ["System Analyst GED UTN Jan-2003 Jan-2008", "Bachelor's Bachelor's Degree Carlos Pelegrini Jan-1996 Dec-2001"]
+11:35:49 [INFO] -- Screening Notes --
+11:35:49 [INFO] titles: ["Company", "Position title", "Is current position?", "Start date", "End date"]
+11:35:49 [INFO] values: ["Avature QA Engineer Yes Jan-2015", "Google QA Analyst No Jan-2010 Dec-2014"]
+11:35:49 [INFO] -- Education History --
+11:35:52 [INFO] Searching for: '6, Test Candidate Offer'
+11:35:53 [INFO] Searching for: 'Chef'
+11:35:55 [INFO] titles: ["Degree name", "Type of Degree", "University", "Start Date", "End date"]
+11:35:55 [INFO] values: ["System Analyst GED UTN Jan-2003 Jan-2008", "Bachelor's Bachelor's Degree Carlos Pelegrini Jan-1996 Dec-2001"]
+11:35:55 [INFO] -- Screening Notes --
+11:35:55 [INFO] Searching for: '9, Test Candidate Offer'
+11:35:59 [INFO] relevant_experience_: Three years in similar role with demonstrated success completing similar projects. Proven team player with the ability to work in matrixed environment. Solid exposure to upper management.
+11:35:59 [INFO] why_is: Not actively looking, but open to something which will offer more opportunity to lead and develop others as well as expand current knowledge base.
+11:35:59 [INFO] screening_overall: ★★★★★
+11:35:59 [INFO] Job: : QA Engineer
+11:36:01 [INFO] titles: ["Degree name", "Type of Degree", "University", "Start Date", "End date"]
+11:36:01 [INFO] values: ["System Analyst GED UTN Jan-2003 Jan-2008", "Bachelor's Bachelor's Degree Carlos Pelegrini Jan-1996 Dec-2001"]
+11:36:01 [INFO] -- Screening Notes --
+11:36:04 [DEBUG] Scenario: | log out
+11:36:05 [INFO] relevant_experience_: Three years in similar role with demonstrated success completing similar projects. Proven team player with the ability to work in matrixed environment. Solid exposure to upper management.
+11:36:05 [INFO] why_is: Not actively looking, but open to something which will offer more opportunity to lead and develop others as well as expand current knowledge base.
+11:36:05 [INFO] screening_overall: ★★★★★
+11:36:05 [INFO] Job: : QA Engineer
+11:36:07 [DEBUG] Scenario: | successfully create a job from scratch
+11:36:08 [DEBUG] Scenario: | successfully create a job from a job template
+11:36:12 [INFO] relevant_experience_: Three years in similar role with demonstrated success completing similar projects. Proven team player with the ability to work in matrixed environment. Solid exposure to upper management.
+11:36:12 [INFO] why_is: Not actively looking, but open to something which will offer more opportunity to lead and develop others as well as expand current knowledge base.
+11:36:12 [INFO] screening_overall: ★★★★★
+11:36:12 [INFO] Job: : QA Engineer
+11:36:24 [INFO] OpenRequisitionsDetail page loaded.
+11:36:41 [INFO] Other Candidates Detail page loaded.
+11:36:43 [INFO] Candidates To Review Success page loaded.
+11:36:47 [INFO] Getting linked Job info
+11:36:49 [INFO] Other Candidates Detail page loaded.
+11:36:55 [INFO] ref_: 423456812
+11:36:55 [INFO] city: Manhattan
+11:36:55 [INFO] country: United States
+11:36:55 [INFO] recruiter: Armstrong, Elnora
+11:36:55 [INFO] position_level: Analyst
+11:36:55 [INFO] working_time: Full-time
+11:36:55 [INFO] type_of_contract: Permanent
+11:36:55 [INFO] reason_for_opening: New Position
+11:36:55 [INFO] Job validations
+11:36:56 [INFO] Getting linked Job info
+11:37:04 [DEBUG] Scenario: | Successfully add a delegate
+11:37:06 [INFO] Searching for: '22, Test Candidate Review'
+11:37:07 [DEBUG] Scenario: | successfully view interview feedback candidate details
+11:37:09 [INFO] ref_: 423456811
+11:37:09 [INFO] city: Manhattan
+11:37:09 [INFO] country: United States
+11:37:09 [INFO] recruiter: Armstrong, Elnora
+11:37:09 [INFO] position_level: Analyst
+11:37:09 [INFO] working_time: Full-time
+11:37:09 [INFO] type_of_contract: Permanent
+11:37:09 [INFO] reason_for_opening: New Position
+11:37:14 [DEBUG] Scenario: | successfully approve interview feedback candidate
+11:37:18 [INFO] name: QA Engineer
+11:37:18 [INFO] ref_: 123456789
+11:37:18 [INFO] city: Manhattan
+11:37:18 [INFO] country: United States
+11:37:18 [INFO] description: Job Description Testing
+11:37:18 [DEBUG] Scenario: | successfully reject interview feedback candidate
+11:37:24 [INFO] name: QA Engineer
+11:37:24 [INFO] ref_: 123456789
+11:37:24 [INFO] city: Manhattan
+11:37:24 [INFO] country: United States
+11:37:24 [INFO] description: Job Description Testing
+11:37:35 [DEBUG] Scenario: | Successfully edit profile
+11:37:43 [INFO] title: QA Engineer
+11:37:43 [INFO] company: Avature
+11:37:43 [INFO] e_mail: offer@candidate6.com
+11:37:45 [INFO] title: QA Engineer
+11:37:45 [INFO] company: Avature
+11:37:45 [INFO] e_mail: offer@candidate9.com
+11:37:46 [INFO] -- Other candidates Detail --
+11:37:47 [INFO] Job: : QA Engineer
+11:37:47 [INFO] name: QA Engineer
+11:37:47 [INFO] ref_: 123456789
+11:37:47 [INFO] city: Manhattan
+11:37:47 [INFO] country: United States
+11:37:47 [INFO] description: Job Description Testing
+11:37:47 [INFO] Candidate Details: : =>
+11:37:47 [INFO] title: QA Engineer
+11:37:47 [INFO] company: Avature
+11:37:47 [INFO] e_mail: offer@candidate6.com
+11:37:47 [INFO] Attachment/s: : =>
+11:37:47 [INFO] 796_offer letter.pdf (offer ): 
+11:37:47 [INFO] Job: : QA Engineer
+11:37:47 [INFO] name: QA Engineer
+11:37:47 [INFO] ref_: 123456789
+11:37:47 [INFO] city: Manhattan
+11:37:47 [INFO] country: United States
+11:37:47 [INFO] description: Job Description Testing
+11:37:47 [INFO] Candidate Details: : =>
+11:37:47 [INFO] title: QA Engineer
+11:37:47 [INFO] company: Avature
+11:37:47 [INFO] e_mail: offer@candidate9.com
+11:37:47 [INFO] Attachment/s: : =>
+11:37:47 [INFO] 799_offer letter.pdf (offer ): 
+11:37:48 [INFO] Other Candidates Detail page loaded.
+11:37:52 [INFO] -- Linked Job --
+11:37:54 [INFO] Getting linked Job info
+11:38:20 [INFO] job_template_name: QA Analyst
+11:38:20 [INFO] position_title: QA Analyst New York
+11:38:20 [INFO] location: {:country=>"United States", :state=>"New York", :city=>"Manhattan"}
+11:38:20 [INFO] num_of_openings: 99999999
+11:38:20 [INFO] position_level: Analyst
+11:38:20 [INFO] department: Manufacturing
+11:38:20 [INFO] recruiter: Armstrong, Elnora
+11:38:21 [INFO] position_title: Construction Strategist
+11:38:21 [INFO] location: {:country=>"United States", :state=>"Maryland", :city=>"Kipshire"}
+11:38:21 [INFO] reason: New Position
+11:38:21 [INFO] num_of_openings: 5
+11:38:21 [INFO] position_level: Analyst
+11:38:21 [INFO] department: Marketing
+11:38:21 [INFO] recruiter: Armstrong, Elnora
+11:38:24 [WARN] Scroll to element not supported.
+11:38:27 [INFO] name: QA Engineer
+11:38:27 [INFO] ref_: 123456789
+11:38:27 [INFO] city: Manhattan
+11:38:27 [INFO] country: United States
+11:38:27 [INFO] description: Job Description Testing
+11:38:30 [INFO] Searching for: '3, Test Candidate Interview'
+11:38:30 [INFO] -- General information --
+11:38:31 [INFO] The element disappear or is stale
+11:38:34 [INFO] Searching for: '7, Test Candidate Interview'
+11:38:45 [INFO] title: QA Engineer
+11:38:45 [INFO] company: Avature
+11:38:45 [INFO] e_mail: review@candidate22.com
+11:38:45 [INFO] -- Work experience --
+11:38:52 [INFO] Searching for: '9, Test Candidate Interview'
+11:38:52 [ERROR] Bug State is not retrieved, this case need to be solved: https://teg.avature.net/#Case/437228
+11:38:54 [WARN] Scroll to element not supported.
+11:38:58 [INFO] titles: ["Company", "Position title", "Is current position?", "Start date", "End date"]
+11:38:58 [INFO] values: ["Avature QA Engineer Yes Jan-2015", "Google QA Analyst No Jan-2010 Dec-2014"]
+11:38:58 [INFO] -- Education History --
+11:39:02 [INFO] The element disappear or is stale
+11:39:11 [INFO] titles: ["Degree name", "Type of Degree", "University", "Start Date", "End date"]
+11:39:11 [INFO] values: ["System Analyst GED UTN Jan-2003 Jan-2008", "Bachelor's Bachelor's Degree Carlos Pelegrini Jan-1996 Dec-2001"]
+11:39:11 [INFO] -- Screening Notes --
+11:39:17 [INFO] -- Interview feedback Detail --
+11:39:17 [INFO] -- Linked Job --
+11:39:17 [INFO] == Profile data before update: ==
+11:39:18 [INFO] Getting linked Job info
+11:39:21 [INFO] relevant_experience_: Three years in similar role with demonstrated success completing similar projects. Proven team player with the ability to work in matrixed environment. Solid exposure to upper management.
+11:39:21 [INFO] why_is: Not actively looking, but open to something which will offer more opportunity to lead and develop others as well as expand current knowledge base.
+11:39:21 [INFO] screening_overall: ★★★★★
+11:39:21 [INFO] -- Interview feedback Detail --
+11:39:21 [INFO] -- Linked Job --
+11:39:24 [INFO] Getting linked Job info
+11:39:38 [INFO] -- Interview feedback Detail --
+11:39:38 [INFO] -- Linked Job --
+11:39:39 [INFO] Getting linked Job info
+11:39:44 [INFO] Job: : QA Engineer
+11:39:44 [INFO] name: QA Engineer
+11:39:44 [INFO] ref_: 123456789
+11:39:44 [INFO] city: Manhattan
+11:39:44 [INFO] country: United States
+11:39:44 [INFO] description: Job Description Testing
+11:39:44 [INFO] Candidate Details: : =>
+11:39:44 [INFO] title: QA Engineer
+11:39:44 [INFO] company: Avature
+11:39:44 [INFO] e_mail: review@candidate22.com
+11:39:44 [INFO] Attachment/s: : =>
+11:39:44 [INFO] cover letter (cover letter ): 
+11:39:44 [INFO] Work experience: : =>
+11:39:44 [INFO] titles: ["Company", "Position title", "Is current position?", "Start date", "End date"]
+11:39:44 [INFO] values: ["Avature QA Engineer Yes Jan-2015", "Google QA Analyst No Jan-2010 Dec-2014"]
+11:39:44 [INFO] Education History: : =>
+11:39:44 [INFO] titles: ["Degree name", "Type of Degree", "University", "Start Date", "End date"]
+11:39:44 [INFO] values: ["System Analyst GED UTN Jan-2003 Jan-2008", "Bachelor's Bachelor's Degree Carlos Pelegrini Jan-1996 Dec-2001"]
+11:39:44 [INFO] Screening Notes: : =>
+11:39:44 [INFO] relevant_experience_: Three years in similar role with demonstrated success completing similar projects. Proven team player with the ability to work in matrixed environment. Solid exposure to upper management.
+11:39:44 [INFO] why_is: Not actively looking, but open to something which will offer more opportunity to lead and develop others as well as expand current knowledge base.
+11:39:44 [INFO] screening_overall: ★★★★★
+11:39:45 [INFO] first_name_: Berneice
+11:39:45 [INFO] last_name_: Harris
+11:39:45 [INFO] email_: user.hm1@avature.net
+11:39:45 [INFO] mobile_phone_: 632-745-2508
+11:39:45 [INFO] street_: Maida Meadow
+11:39:45 [INFO] city_: Fishermouth
+11:39:45 [INFO] state_: Ohio
+11:39:45 [INFO] country_: United States
+11:39:45 [INFO] website_: bednargislason.org
+11:39:48 [INFO] name: QA Engineer
+11:39:48 [INFO] ref_: 123456789
+11:39:48 [INFO] city: Manhattan
+11:39:48 [INFO] country: United States
+11:39:48 [INFO] description: Job Description Testing
+11:39:51 [INFO] -- General information --
+11:39:53 [INFO] == Profile data to update: ==
+11:39:53 [INFO] email_home: randi@bogisich.com
+11:39:53 [INFO] email_work: armand.abbott@quitzonokuneva.com
+11:39:53 [INFO] phone_work: 174.325.8765
+11:39:53 [INFO] phone_mobile: 886-506-2511
+11:39:53 [INFO] website: hintzbotsford.co
+11:39:53 [INFO] location: {:country=>"United States", :address=>"Hahn Crossing", :city=>"Port Clifford", :state=>"Tennessee"}
+11:39:55 [INFO] name: QA Engineer
+11:39:55 [INFO] ref_: 123456789
+11:39:55 [INFO] city: Manhattan
+11:39:55 [INFO] country: United States
+11:39:55 [INFO] description: Job Description Testing
+11:39:58 [INFO] -- General information --
+11:40:07 [INFO] title: QA Engineer
+11:40:07 [INFO] company: Avature
+11:40:07 [INFO] e_mail: interview@candidate3.com
+11:40:07 [INFO] -- Work experience --
+11:40:09 [INFO] name: QA Engineer
+11:40:09 [INFO] ref_: 123456789
+11:40:09 [INFO] city: Manhattan
+11:40:09 [INFO] country: United States
+11:40:09 [INFO] description: Job Description Testing
+11:40:13 [INFO] -- General information --
+11:40:15 [INFO] title: QA Engineer
+11:40:15 [INFO] company: Avature
+11:40:15 [INFO] e_mail: interview@candidate7.com
+11:40:15 [INFO] -- Work experience --
+11:40:21 [INFO] titles: ["Company", "Position title", "Is current position?", "Start date", "End date"]
+11:40:21 [INFO] values: ["Avature QA Engineer Yes Jan-2015", "Google QA Analyst No Jan-2010 Dec-2014"]
+11:40:21 [INFO] -- Education History --
+11:40:27 [INFO] titles: ["Company", "Position title", "Is current position?", "Start date", "End date"]
+11:40:27 [INFO] values: ["Avature QA Engineer Yes Jan-2015", "Google QA Analyst No Jan-2010 Dec-2014"]
+11:40:27 [INFO] -- Education History --
+11:40:31 [INFO] title: QA Engineer
+11:40:31 [INFO] company: Avature
+11:40:31 [INFO] e_mail: interview@candidate9.com
+11:40:31 [INFO] -- Work experience --
+11:40:39 [INFO] titles: ["Degree name", "Type of Degree", "University", "Start Date", "End date"]
+11:40:39 [INFO] values: ["System Analyst GED UTN Jan-2003 Jan-2008", "Bachelor's Bachelor's Degree Carlos Pelegrini Jan-1996 Dec-2001"]
+11:40:39 [INFO] -- Screening Notes --
+11:40:39 [INFO] titles: ["Degree name", "Type of Degree", "University", "Start Date", "End date"]
+11:40:39 [INFO] values: ["System Analyst GED UTN Jan-2003 Jan-2008", "Bachelor's Bachelor's Degree Carlos Pelegrini Jan-1996 Dec-2001"]
+11:40:39 [INFO] -- Screening Notes --
+11:40:43 [INFO] titles: ["Company", "Position title", "Is current position?", "Start date", "End date"]
+11:40:43 [INFO] values: ["Avature QA Engineer Yes Jan-2015", "Google QA Analyst No Jan-2010 Dec-2014"]
+11:40:43 [INFO] -- Education History --
+11:40:50 [INFO] relevant_experience_: Three years in similar role with demonstrated success completing similar projects. Proven team player with the ability to work in matrixed environment. Solid exposure to upper management.
+11:40:50 [INFO] why_is: Not actively looking, but open to something which will offer more opportunity to lead and develop others as well as expand current knowledge base.
+11:40:50 [INFO] screening_overall: ★★★★★
+11:40:50 [INFO] relevant_experience_: Three years in similar role with demonstrated success completing similar projects. Proven team player with the ability to work in matrixed environment. Solid exposure to upper management.
+11:40:50 [INFO] why_is: Not actively looking, but open to something which will offer more opportunity to lead and develop others as well as expand current knowledge base.
+11:40:50 [INFO] screening_overall: ★★★★★
+11:40:56 [INFO] titles: ["Degree name", "Type of Degree", "University", "Start Date", "End date"]
+11:40:56 [INFO] values: ["System Analyst GED UTN Jan-2003 Jan-2008", "Bachelor's Bachelor's Degree Carlos Pelegrini Jan-1996 Dec-2001"]
+11:40:56 [INFO] -- Screening Notes --
+11:40:57 [INFO] == Profile data updated: ==
+11:41:07 [INFO] relevant_experience_: Three years in similar role with demonstrated success completing similar projects. Proven team player with the ability to work in matrixed environment. Solid exposure to upper management.
+11:41:07 [INFO] why_is: Not actively looking, but open to something which will offer more opportunity to lead and develop others as well as expand current knowledge base.
+11:41:07 [INFO] screening_overall: ★★★★★
+11:41:18 [INFO] Job: : QA Engineer
+11:41:18 [INFO] name: QA Engineer
+11:41:18 [INFO] ref_: 123456789
+11:41:18 [INFO] city: Manhattan
+11:41:18 [INFO] country: United States
+11:41:18 [INFO] description: Job Description Testing
+11:41:18 [INFO] -- General information -- Validations
+11:41:22 [INFO] Job: : QA Engineer
+11:41:22 [INFO] name: QA Engineer
+11:41:22 [INFO] ref_: 123456789
+11:41:22 [INFO] city: Manhattan
+11:41:22 [INFO] country: United States
+11:41:22 [INFO] description: Job Description Testing
+11:41:22 [INFO] -- General information -- Validations
+11:41:28 [INFO] first_name_: Berneice
+11:41:28 [INFO] last_name_: Harris
+11:41:28 [INFO] email_: user.hm1@avature.net
+11:41:28 [INFO] mobile_phone_: 886-506-2511
+11:41:28 [INFO] street_: Hahn Crossing
+11:41:28 [INFO] city_: Port Clifford
+11:41:28 [INFO] state_: Tennessee
+11:41:28 [INFO] country_: United States
+11:41:28 [INFO] website_: hintzbotsford.co
+11:41:33 [INFO] Job: : QA Engineer
+11:41:33 [INFO] name: QA Engineer
+11:41:33 [INFO] ref_: 123456789
+11:41:33 [INFO] city: Manhattan
+11:41:33 [INFO] country: United States
+11:41:33 [INFO] description: Job Description Testing
+11:41:33 [INFO] -- General information -- Validations
+11:42:29 [INFO] Searching for: '3, Test Candidate Interview'
+11:42:44 [INFO] Searching for: '9, Test Candidate Interview'
+11:43:16 [INFO] Other Candidates Detail page loaded.
+11:43:21 [INFO] Getting linked Job info
+11:43:29 [INFO] Other Candidates Detail page loaded.
+11:43:35 [INFO] Getting linked Job info
+11:43:54 [INFO] name: QA Engineer
+11:43:54 [INFO] ref_: 123456789
+11:43:54 [INFO] city: Manhattan
+11:43:54 [INFO] country: United States
+11:43:54 [INFO] description: Job Description Testing
+11:44:07 [INFO] name: QA Engineer
+11:44:07 [INFO] ref_: 123456789
+11:44:07 [INFO] city: Manhattan
+11:44:07 [INFO] country: United States
+11:44:07 [INFO] description: Job Description Testing
+11:44:18 [INFO] title: QA Engineer
+11:44:18 [INFO] company: Avature
+11:44:18 [INFO] e_mail: interview@candidate3.com
+11:44:29 [INFO] title: QA Engineer
+11:44:29 [INFO] company: Avature
+11:44:29 [INFO] e_mail: interview@candidate9.com
+11:44:31 [INFO] titles: ["Company", "Position title", "Is current position?", "Start date", "End date"]
+11:44:31 [INFO] values: ["Avature QA Engineer Yes Jan-2015", "Google QA Analyst No Jan-2010 Dec-2014"]
+11:44:42 [INFO] titles: ["Company", "Position title", "Is current position?", "Start date", "End date"]
+11:44:42 [INFO] values: ["Avature QA Engineer Yes Jan-2015", "Google QA Analyst No Jan-2010 Dec-2014"]
+11:44:43 [INFO] titles: ["Degree name", "Type of Degree", "University", "Start Date", "End date"]
+11:44:43 [INFO] values: ["System Analyst GED UTN Jan-2003 Jan-2008", "Bachelor's Bachelor's Degree Carlos Pelegrini Jan-1996 Dec-2001"]
+11:44:56 [INFO] titles: ["Degree name", "Type of Degree", "University", "Start Date", "End date"]
+11:44:56 [INFO] values: ["System Analyst GED UTN Jan-2003 Jan-2008", "Bachelor's Bachelor's Degree Carlos Pelegrini Jan-1996 Dec-2001"]
+11:45:05 [INFO] relevant_experience_: Three years in similar role with demonstrated success completing similar projects. Proven team player with the ability to work in matrixed environment. Solid exposure to upper management.
+11:45:05 [INFO] why_is: Not actively looking, but open to something which will offer more opportunity to lead and develop others as well as expand current knowledge base.
+11:45:05 [INFO] screening_overall: ★★★★★
+11:45:05 [INFO] skills_fit: Well organized
+11:45:05 [INFO] social_fit: Excellent social skills
+11:45:05 [INFO] experience_fit: 5 years of experience
+11:45:15 [INFO] relevant_experience_: Three years in similar role with demonstrated success completing similar projects. Proven team player with the ability to work in matrixed environment. Solid exposure to upper management.
+11:45:15 [INFO] why_is: Not actively looking, but open to something which will offer more opportunity to lead and develop others as well as expand current knowledge base.
+11:45:15 [INFO] screening_overall: ★★★★★
+11:45:15 [INFO] skills_fit: Poor organization
+11:45:15 [INFO] social_fit: Medium social skills
+11:45:15 [INFO] experience_fit: 2 years of experience
+11:45:32 [INFO] Job: : QA Engineer
+11:45:32 [INFO] name: QA Engineer
+11:45:32 [INFO] ref_: 123456789
+11:45:32 [INFO] city: Manhattan
+11:45:32 [INFO] country: United States
+11:45:32 [INFO] description: Job Description Testing
+11:45:32 [INFO] Candidate Details: : =>
+11:45:32 [INFO] title: QA Engineer
+11:45:32 [INFO] company: Avature
+11:45:32 [INFO] e_mail: interview@candidate3.com
+11:45:32 [INFO] Attachment/s: : =>
+11:45:32 [INFO] cover letter (cover letter ): 
+11:45:32 [INFO] Work experience: : =>
+11:45:32 [INFO] titles: ["Company", "Position title", "Is current position?", "Start date", "End date"]
+11:45:32 [INFO] values: ["Avature QA Engineer Yes Jan-2015", "Google QA Analyst No Jan-2010 Dec-2014"]
+11:45:32 [INFO] Education History: : =>
+11:45:32 [INFO] titles: ["Degree name", "Type of Degree", "University", "Start Date", "End date"]
+11:45:32 [INFO] values: ["System Analyst GED UTN Jan-2003 Jan-2008", "Bachelor's Bachelor's Degree Carlos Pelegrini Jan-1996 Dec-2001"]
+11:45:41 [INFO] Job: : QA Engineer
+11:45:41 [INFO] name: QA Engineer
+11:45:41 [INFO] ref_: 123456789
+11:45:41 [INFO] city: Manhattan
+11:45:41 [INFO] country: United States
+11:45:41 [INFO] description: Job Description Testing
+11:45:41 [INFO] Candidate Details: : =>
+11:45:41 [INFO] title: QA Engineer
+11:45:41 [INFO] company: Avature
+11:45:41 [INFO] e_mail: interview@candidate9.com
+11:45:41 [INFO] Attachment/s: : =>
+11:45:41 [INFO] cover letter (cover letter ): 
+11:45:41 [INFO] Work experience: : =>
+11:45:41 [INFO] titles: ["Company", "Position title", "Is current position?", "Start date", "End date"]
+11:45:41 [INFO] values: ["Avature QA Engineer Yes Jan-2015", "Google QA Analyst No Jan-2010 Dec-2014"]
+11:45:41 [INFO] Education History: : =>
+11:45:41 [INFO] titles: ["Degree name", "Type of Degree", "University", "Start Date", "End date"]
+11:45:41 [INFO] values: ["System Analyst GED UTN Jan-2003 Jan-2008", "Bachelor's Bachelor's Degree Carlos Pelegrini Jan-1996 Dec-2001"]
+10:57:02 [DEBUG] Scenario: | successfully reject candidate pending to review
+10:57:02 [DEBUG] Scenario: | successfully approve candidate pending to review
+10:57:02 [DEBUG] Scenario: | successfully view candidate to review details
+10:57:02 [DEBUG] Scenario: | successfully reject job
+10:57:02 [DEBUG] Scenario: | successfully view job details
+10:57:02 [DEBUG] Scenario: | successfully approve candidate offer
+10:57:02 [DEBUG] Scenario: | successfully login
+10:57:02 [DEBUG] Scenario: | successfully view candidate offer details
+10:57:02 [DEBUG] Scenario: | successfully reject candidate offer
+10:57:02 [DEBUG] Scenario: | successfully approve job
+10:58:12 [INFO] Requisitions to approve page loaded.
+10:58:15 [INFO] Requisitions to approve page loaded.
+10:58:17 [INFO] Searching for: '32, Test Candidate Offer'
+10:58:19 [INFO] Requisitions to approve page loaded.
+10:58:19 [INFO] Searching for: '37, Test Candidate Offer'
+10:58:19 [INFO] Searching for: '39, Test Candidate Review'
+10:58:19 [INFO] Requisitions to approve page loaded.
+10:58:20 [INFO] Searching for: '42, Test Candidate Offer'
+10:58:23 [INFO] Requisitions to approve page loaded.
+10:58:23 [INFO] Searching for: '43, Test Candidate Review'
+10:58:23 [INFO] Searching for: '44, Test Candidate Review'
+10:58:26 [INFO] Requisitions to approve page loaded.
+10:58:34 [INFO] Searching for: 'Accountant'
+10:58:36 [INFO] Searching for: 'Dressmaker'
+10:58:41 [INFO] Searching for: 'Accountant'
+10:58:45 [INFO] Requisitions to approve page loaded.
+10:58:50 [INFO] Displaying results for keyword: 'Accountant'
+10:58:51 [INFO] Requisitions to approve page loaded.
+10:58:53 [INFO] Requisitions to approve page loaded.
+10:58:56 [INFO] Displaying results for keyword: 'Dressmaker'
+10:58:58 [INFO] Displaying results for keyword: 'Accountant'
+10:59:15 [INFO] Getting linked Job info
+10:59:15 [INFO] Getting linked Job info
+10:59:15 [INFO] Getting linked Job info
+10:59:41 [INFO] -- Candidates to Review Detail --
+10:59:41 [INFO] -- Linked Job --
+10:59:42 [INFO] Getting linked Job info
+10:59:42 [INFO] -- Candidates to Review Detail --
+10:59:42 [INFO] -- Linked Job --
+10:59:43 [INFO] Getting linked Job info
+10:59:44 [INFO] ref_: 423456789
+10:59:44 [INFO] city: Manhattan
+10:59:44 [INFO] country: United States
+10:59:44 [INFO] recruiter: Armstrong, Elnora
+10:59:44 [INFO] position_level: Analyst
+10:59:44 [INFO] working_time: Full-time
+10:59:44 [INFO] type_of_contract: Permanent
+10:59:44 [INFO] reason_for_opening: New Position
+10:59:44 [INFO] name: QA Engineer
+10:59:44 [INFO] ref_: 123456792
+10:59:44 [INFO] city: Manhattan
+10:59:44 [INFO] country: United States
+10:59:44 [INFO] description: Job Description Testing
+10:59:46 [INFO] name: QA Engineer
+10:59:46 [INFO] ref_: 123456791
+10:59:46 [INFO] city: Manhattan
+10:59:46 [INFO] country: United States
+10:59:46 [INFO] description: Job Description Testing
+10:59:49 [INFO] name: QA Engineer
+10:59:49 [INFO] ref_: 123456792
+10:59:49 [INFO] city: Manhattan
+10:59:49 [INFO] country: United States
+10:59:49 [INFO] description: Job Description Testing
+10:59:51 [INFO] -- Candidates to Review Detail --
+10:59:51 [INFO] -- Linked Job --
+10:59:53 [INFO] Getting linked Job info
+10:59:54 [INFO] ref_: 423456818
+10:59:54 [INFO] city: Manhattan
+10:59:54 [INFO] country: United States
+10:59:54 [INFO] recruiter: Armstrong, Elnora
+10:59:54 [INFO] position_level: Analyst
+10:59:54 [INFO] working_time: Full-time
+10:59:54 [INFO] type_of_contract: Permanent
+10:59:54 [INFO] reason_for_opening: New Position
+10:59:55 [DEBUG] Scenario: | login fail
+11:00:00 [INFO] ref_: 423456789
+11:00:00 [INFO] city: Manhattan
+11:00:00 [INFO] country: United States
+11:00:00 [INFO] recruiter: Armstrong, Elnora
+11:00:00 [INFO] position_level: Analyst
+11:00:00 [INFO] working_time: Full-time
+11:00:00 [INFO] type_of_contract: Permanent
+11:00:00 [INFO] reason_for_opening: New Position
+11:00:03 [INFO] title: QA Engineer
+11:00:03 [INFO] company: Avature
+11:00:03 [INFO] e_mail: offer@candidate37.com
+11:00:04 [INFO] title: QA Engineer
+11:00:04 [INFO] company: Avature
+11:00:04 [INFO] e_mail: offer@candidate32.com
+11:00:07 [INFO] Job: : QA Engineer
+11:00:07 [INFO] name: QA Engineer
+11:00:07 [INFO] ref_: 123456792
+11:00:07 [INFO] city: Manhattan
+11:00:07 [INFO] country: United States
+11:00:07 [INFO] description: Job Description Testing
+11:00:07 [INFO] Attachment/s: : =>
+11:00:07 [INFO] cover letter (cover letter ): 
+11:00:07 [INFO] 1277_offer letter.pdf (offer ): 
+11:00:08 [INFO] title: QA Engineer
+11:00:08 [INFO] company: Avature
+11:00:08 [INFO] e_mail: offer@candidate42.com
+11:00:08 [INFO] Job: : QA Engineer
+11:00:08 [INFO] name: QA Engineer
+11:00:08 [INFO] ref_: 123456791
+11:00:08 [INFO] city: Manhattan
+11:00:08 [INFO] country: United States
+11:00:08 [INFO] description: Job Description Testing
+11:00:08 [INFO] Attachment/s: : =>
+11:00:08 [INFO] cover letter (cover letter ): 
+11:00:08 [INFO] 1272_offer letter.pdf (offer ): 
+11:00:09 [INFO] name: QA Engineer
+11:00:09 [INFO] ref_: 123456792
+11:00:09 [INFO] city: Manhattan
+11:00:09 [INFO] country: United States
+11:00:09 [INFO] description: Job Description Testing
+11:00:11 [INFO] -- General information --
+11:00:12 [INFO] Job: : QA Engineer
+11:00:12 [INFO] name: QA Engineer
+11:00:12 [INFO] ref_: 123456792
+11:00:12 [INFO] city: Manhattan
+11:00:12 [INFO] country: United States
+11:00:12 [INFO] description: Job Description Testing
+11:00:12 [INFO] Attachment/s: : =>
+11:00:12 [INFO] cover letter (cover letter ): 
+11:00:12 [INFO] 1282_offer letter.pdf (offer ): 
+11:00:13 [INFO] name: QA Engineer
+11:00:13 [INFO] ref_: 123456792
+11:00:13 [INFO] city: Manhattan
+11:00:13 [INFO] country: United States
+11:00:13 [INFO] description: Job Description Testing
+11:00:16 [INFO] -- General information --
+11:00:20 [DEBUG] Scenario: | reset password
+11:00:22 [INFO] name: QA Engineer
+11:00:22 [INFO] ref_: 123456792
+11:00:22 [INFO] city: Manhattan
+11:00:22 [INFO] country: United States
+11:00:22 [INFO] description: Job Description Testing
+11:00:24 [INFO] -- General information --
+11:00:29 [INFO] title: QA Engineer
+11:00:29 [INFO] company: Avature
+11:00:29 [INFO] e_mail: review@candidate39.com
+11:00:29 [INFO] -- Work experience --
+11:00:30 [INFO] title: QA Engineer
+11:00:30 [INFO] company: Avature
+11:00:30 [INFO] e_mail: review@candidate43.com
+11:00:30 [INFO] -- Work experience --
+11:00:35 [INFO] Requisitions to approve page loaded.
+11:00:40 [INFO] title: QA Engineer
+11:00:40 [INFO] company: Avature
+11:00:40 [INFO] e_mail: review@candidate44.com
+11:00:40 [INFO] -- Work experience --
+11:00:42 [INFO] titles: ["Company", "Position title", "Is current position?", "Start date", "End date"]
+11:00:42 [INFO] values: ["Avature QA Engineer Yes Jan-2015", "Google QA Analyst No Jan-2010 Dec-2014"]
+11:00:42 [INFO] -- Education History --
+11:00:42 [INFO] titles: ["Company", "Position title", "Is current position?", "Start date", "End date"]
+11:00:42 [INFO] values: ["Avature QA Engineer Yes Jan-2015", "Google QA Analyst No Jan-2010 Dec-2014"]
+11:00:42 [INFO] -- Education History --
+11:00:42 [INFO] Requisitions to approve page loaded.
+11:00:52 [INFO] titles: ["Company", "Position title", "Is current position?", "Start date", "End date"]
+11:00:52 [INFO] values: ["Avature QA Engineer Yes Jan-2015", "Google QA Analyst No Jan-2010 Dec-2014"]
+11:00:52 [INFO] -- Education History --
+11:00:53 [INFO] titles: ["Degree name", "Type of Degree", "University", "Start Date", "End date"]
+11:00:53 [INFO] values: ["System Analyst GED UTN Jan-2003 Jan-2008", "Bachelor's Bachelor's Degree Carlos Pelegrini Jan-1996 Dec-2001"]
+11:00:53 [INFO] -- Screening Notes --
+11:00:53 [INFO] Searching for: 'Dressmaker'
+11:00:53 [INFO] titles: ["Degree name", "Type of Degree", "University", "Start Date", "End date"]
+11:00:53 [INFO] values: ["System Analyst GED UTN Jan-2003 Jan-2008", "Bachelor's Bachelor's Degree Carlos Pelegrini Jan-1996 Dec-2001"]
+11:00:53 [INFO] -- Screening Notes --
+11:00:54 [INFO] Searching for: '37, Test Candidate Offer'
+11:00:57 [DEBUG] Scenario: | log out
+11:00:58 [INFO] Searching for: '32, Test Candidate Offer'
+11:01:03 [INFO] Searching for: 'Accountant'
+11:01:04 [INFO] relevant_experience_: Three years in similar role with demonstrated success completing similar projects. Proven team player with the ability to work in matrixed environment. Solid exposure to upper management.
+11:01:04 [INFO] why_is: Not actively looking, but open to something which will offer more opportunity to lead and develop others as well as expand current knowledge base.
+11:01:04 [INFO] screening_overall: ★★★★★
+11:01:04 [INFO] Job: : QA Engineer
+11:01:04 [INFO] relevant_experience_: Three years in similar role with demonstrated success completing similar projects. Proven team player with the ability to work in matrixed environment. Solid exposure to upper management.
+11:01:04 [INFO] why_is: Not actively looking, but open to something which will offer more opportunity to lead and develop others as well as expand current knowledge base.
+11:01:04 [INFO] screening_overall: ★★★★★
+11:01:04 [INFO] Job: : QA Engineer
+11:01:05 [INFO] titles: ["Degree name", "Type of Degree", "University", "Start Date", "End date"]
+11:01:05 [INFO] values: ["System Analyst GED UTN Jan-2003 Jan-2008", "Bachelor's Bachelor's Degree Carlos Pelegrini Jan-1996 Dec-2001"]
+11:01:05 [INFO] -- Screening Notes --
+11:01:12 [DEBUG] Scenario: | successfully create a job from scratch
+11:01:12 [DEBUG] Scenario: | successfully create a job from a job template
+11:01:16 [INFO] relevant_experience_: Three years in similar role with demonstrated success completing similar projects. Proven team player with the ability to work in matrixed environment. Solid exposure to upper management.
+11:01:16 [INFO] why_is: Not actively looking, but open to something which will offer more opportunity to lead and develop others as well as expand current knowledge base.
+11:01:16 [INFO] screening_overall: ★★★★★
+11:01:16 [INFO] Job: : QA Engineer
+11:01:37 [INFO] Other Candidates Detail page loaded.
+11:01:40 [INFO] Other Candidates Detail page loaded.
+11:01:41 [INFO] OpenRequisitionsDetail page loaded.
+11:01:43 [INFO] Candidates To Review Success page loaded.
+11:01:44 [INFO] Candidates To Review Success page loaded.
+11:01:44 [INFO] Getting linked Job info
+11:01:45 [INFO] Getting linked Job info
+11:02:02 [DEBUG] Scenario: | Successfully add a delegate
+11:02:07 [INFO] Searching for: '39, Test Candidate Review'
+11:02:07 [INFO] ref_: 423456789
+11:02:07 [INFO] city: Manhattan
+11:02:07 [INFO] country: United States
+11:02:07 [INFO] recruiter: Armstrong, Elnora
+11:02:07 [INFO] position_level: Analyst
+11:02:07 [INFO] working_time: Full-time
+11:02:07 [INFO] type_of_contract: Permanent
+11:02:07 [INFO] reason_for_opening: New Position
+11:02:08 [INFO] Searching for: '44, Test Candidate Review'
+11:02:10 [INFO] ref_: 423456818
+11:02:10 [INFO] city: Manhattan
+11:02:10 [INFO] country: United States
+11:02:10 [INFO] recruiter: Armstrong, Elnora
+11:02:10 [INFO] position_level: Analyst
+11:02:10 [INFO] working_time: Full-time
+11:02:10 [INFO] type_of_contract: Permanent
+11:02:10 [INFO] reason_for_opening: New Position
+11:02:10 [INFO] Job validations
+11:02:15 [INFO] name: QA Engineer
+11:02:15 [INFO] ref_: 123456791
+11:02:15 [INFO] city: Manhattan
+11:02:15 [INFO] country: United States
+11:02:15 [INFO] description: Job Description Testing
+11:02:15 [INFO] name: QA Engineer
+11:02:15 [INFO] ref_: 123456792
+11:02:15 [INFO] city: Manhattan
+11:02:15 [INFO] country: United States
+11:02:15 [INFO] description: Job Description Testing
+11:02:16 [DEBUG] Scenario: | successfully view interview feedback candidate details
+11:02:19 [DEBUG] Scenario: | successfully approve interview feedback candidate
+11:02:33 [INFO] title: QA Engineer
+11:02:33 [INFO] company: Avature
+11:02:33 [INFO] e_mail: offer@candidate32.com
+11:02:38 [INFO] title: QA Engineer
+11:02:38 [INFO] company: Avature
+11:02:38 [INFO] e_mail: offer@candidate37.com
+11:02:38 [INFO] Job: : QA Engineer
+11:02:38 [INFO] name: QA Engineer
+11:02:38 [INFO] ref_: 123456791
+11:02:38 [INFO] city: Manhattan
+11:02:38 [INFO] country: United States
+11:02:38 [INFO] description: Job Description Testing
+11:02:38 [INFO] Candidate Details: : =>
+11:02:38 [INFO] title: QA Engineer
+11:02:38 [INFO] company: Avature
+11:02:38 [INFO] e_mail: offer@candidate32.com
+11:02:38 [INFO] Attachment/s: : =>
+11:02:38 [INFO] cover letter (cover letter ): 
+11:02:38 [INFO] 1272_offer letter.pdf (offer ): 
+11:02:42 [DEBUG] Scenario: | successfully reject interview feedback candidate
+11:02:42 [INFO] Job: : QA Engineer
+11:02:42 [INFO] name: QA Engineer
+11:02:42 [INFO] ref_: 123456792
+11:02:42 [INFO] city: Manhattan
+11:02:42 [INFO] country: United States
+11:02:42 [INFO] description: Job Description Testing
+11:02:42 [INFO] Candidate Details: : =>
+11:02:42 [INFO] title: QA Engineer
+11:02:42 [INFO] company: Avature
+11:02:42 [INFO] e_mail: offer@candidate37.com
+11:02:42 [INFO] Attachment/s: : =>
+11:02:42 [INFO] cover letter (cover letter ): 
+11:02:42 [INFO] 1277_offer letter.pdf (offer ): 
+11:02:45 [DEBUG] Scenario: | Successfully edit profile
+11:02:50 [INFO] -- Other candidates Detail --
+11:02:53 [INFO] -- Other candidates Detail --
+11:02:53 [INFO] Other Candidates Detail page loaded.
+11:02:54 [INFO] Other Candidates Detail page loaded.
+11:02:58 [INFO] -- Linked Job --
+11:02:58 [INFO] -- Linked Job --
+11:02:59 [INFO] Getting linked Job info
+11:03:00 [INFO] Getting linked Job info
+11:03:26 [INFO] position_title: IT Executive
+11:03:26 [INFO] location: {:country=>"United States", :state=>"North Carolina", :city=>"Lake Daneview"}
+11:03:26 [INFO] reason: New Position
+11:03:26 [INFO] num_of_openings: 4
+11:03:26 [INFO] position_level: VP & SVP
+11:03:26 [INFO] department: Manufacturing
+11:03:26 [INFO] recruiter: Armstrong, Elnora
+11:03:28 [INFO] job_template_name: QA Analyst
+11:03:28 [INFO] position_title: QA Analyst New York
+11:03:28 [INFO] location: {:country=>"United States", :state=>"New York", :city=>"Manhattan"}
+11:03:28 [INFO] num_of_openings: 99999999
+11:03:28 [INFO] position_level: Analyst
+11:03:28 [INFO] department: Manufacturing
+11:03:28 [INFO] recruiter: Armstrong, Elnora
+11:03:28 [WARN] Scroll to element not supported.
+11:03:30 [INFO] name: QA Engineer
+11:03:30 [INFO] ref_: 123456792
+11:03:30 [INFO] city: Manhattan
+11:03:30 [INFO] country: United States
+11:03:30 [INFO] description: Job Description Testing
+11:03:32 [INFO] name: QA Engineer
+11:03:32 [INFO] ref_: 123456792
+11:03:32 [INFO] city: Manhattan
+11:03:32 [INFO] country: United States
+11:03:32 [INFO] description: Job Description Testing
+11:03:32 [INFO] -- General information --
+11:03:33 [INFO] Searching for: '45, Test Candidate Interview'
+11:03:35 [INFO] -- General information --
+11:03:35 [INFO] The element disappear or is stale
+11:03:48 [INFO] title: QA Engineer
+11:03:48 [INFO] company: Avature
+11:03:48 [INFO] e_mail: review@candidate39.com
+11:03:48 [INFO] -- Work experience --
+11:03:51 [INFO] title: QA Engineer
+11:03:51 [INFO] company: Avature
+11:03:51 [INFO] e_mail: review@candidate44.com
+11:03:51 [INFO] -- Work experience --
+11:03:58 [INFO] Searching for: '20, Test Candidate Interview'
+11:04:00 [INFO] Searching for: '13, Test Candidate Interview'
+11:04:02 [INFO] titles: ["Company", "Position title", "Is current position?", "Start date", "End date"]
+11:04:02 [INFO] values: ["Avature QA Engineer Yes Jan-2015", "Google QA Analyst No Jan-2010 Dec-2014"]
+11:04:02 [INFO] -- Education History --
+11:04:02 [INFO] titles: ["Company", "Position title", "Is current position?", "Start date", "End date"]
+11:04:02 [INFO] values: ["Avature QA Engineer Yes Jan-2015", "Google QA Analyst No Jan-2010 Dec-2014"]
+11:04:02 [INFO] -- Education History --
+11:04:03 [ERROR] Bug State is not retrieved, this case need to be solved: https://teg.avature.net/#Case/437228
+11:04:05 [INFO] == Profile data before update: ==
+11:04:06 [WARN] Scroll to element not supported.
+11:04:12 [INFO] The element disappear or is stale
+11:04:14 [INFO] titles: ["Degree name", "Type of Degree", "University", "Start Date", "End date"]
+11:04:14 [INFO] values: ["System Analyst GED UTN Jan-2003 Jan-2008", "Bachelor's Bachelor's Degree Carlos Pelegrini Jan-1996 Dec-2001"]
+11:04:14 [INFO] -- Screening Notes --
+11:04:15 [INFO] titles: ["Degree name", "Type of Degree", "University", "Start Date", "End date"]
+11:04:15 [INFO] values: ["System Analyst GED UTN Jan-2003 Jan-2008", "Bachelor's Bachelor's Degree Carlos Pelegrini Jan-1996 Dec-2001"]
+11:04:15 [INFO] -- Screening Notes --
+11:04:20 [INFO] -- Interview feedback Detail --
+11:04:20 [INFO] -- Linked Job --
+11:04:21 [INFO] Getting linked Job info
+11:04:26 [INFO] relevant_experience_: Three years in similar role with demonstrated success completing similar projects. Proven team player with the ability to work in matrixed environment. Solid exposure to upper management.
+11:04:26 [INFO] why_is: Not actively looking, but open to something which will offer more opportunity to lead and develop others as well as expand current knowledge base.
+11:04:26 [INFO] screening_overall: ★★★★★
+11:04:27 [INFO] relevant_experience_: Three years in similar role with demonstrated success completing similar projects. Proven team player with the ability to work in matrixed environment. Solid exposure to upper management.
+11:04:27 [INFO] why_is: Not actively looking, but open to something which will offer more opportunity to lead and develop others as well as expand current knowledge base.
+11:04:27 [INFO] screening_overall: ★★★★★
+11:04:32 [INFO] first_name_: Berneice
+11:04:32 [INFO] last_name_: Harris
+11:04:32 [INFO] email_: user.hm1@avature.net
+11:04:32 [INFO] mobile_phone_: 886-506-2511
+11:04:32 [INFO] street_: Hahn Crossing
+11:04:32 [INFO] city_: Port Clifford
+11:04:32 [INFO] state_: Tennessee
+11:04:32 [INFO] country_: United States
+11:04:32 [INFO] website_: hintzbotsford.co
+11:04:41 [INFO] == Profile data to update: ==
+11:04:41 [INFO] email_home: patsy.steuber@toyernser.com
+11:04:41 [INFO] email_work: lenny@grimes.org
+11:04:41 [INFO] phone_work: 338-936-4930 x10429
+11:04:41 [INFO] phone_mobile: 496-115-5796
+11:04:41 [INFO] website: prohaska.net
+11:04:41 [INFO] location: {:country=>"United States", :address=>"Kristoffer Estates", :city=>"Westleyville", :state=>"Virginia"}
+11:04:44 [INFO] -- Interview feedback Detail --
+11:04:44 [INFO] -- Linked Job --
+11:04:46 [INFO] Getting linked Job info
+11:04:50 [INFO] -- Interview feedback Detail --
+11:04:50 [INFO] -- Linked Job --
+11:04:51 [INFO] Getting linked Job info
+11:04:51 [INFO] name: QA Engineer
+11:04:51 [INFO] ref_: 123456792
+11:04:51 [INFO] city: Manhattan
+11:04:51 [INFO] country: United States
+11:04:51 [INFO] description: Job Description Testing
+11:04:52 [INFO] Job: : QA Engineer
+11:04:52 [INFO] name: QA Engineer
+11:04:52 [INFO] ref_: 123456792
+11:04:52 [INFO] city: Manhattan
+11:04:52 [INFO] country: United States
+11:04:52 [INFO] description: Job Description Testing
+11:04:52 [INFO] Candidate Details: : =>
+11:04:52 [INFO] title: QA Engineer
+11:04:52 [INFO] company: Avature
+11:04:52 [INFO] e_mail: review@candidate39.com
+11:04:52 [INFO] Attachment/s: : =>
+11:04:52 [INFO] cover letter (cover letter ): 
+11:04:52 [INFO] Work experience: : =>
+11:04:52 [INFO] titles: ["Company", "Position title", "Is current position?", "Start date", "End date"]
+11:04:52 [INFO] values: ["Avature QA Engineer Yes Jan-2015", "Google QA Analyst No Jan-2010 Dec-2014"]
+11:04:52 [INFO] Education History: : =>
+11:04:52 [INFO] titles: ["Degree name", "Type of Degree", "University", "Start Date", "End date"]
+11:04:52 [INFO] values: ["System Analyst GED UTN Jan-2003 Jan-2008", "Bachelor's Bachelor's Degree Carlos Pelegrini Jan-1996 Dec-2001"]
+11:04:52 [INFO] Screening Notes: : =>
+11:04:52 [INFO] relevant_experience_: Three years in similar role with demonstrated success completing similar projects. Proven team player with the ability to work in matrixed environment. Solid exposure to upper management.
+11:04:52 [INFO] why_is: Not actively looking, but open to something which will offer more opportunity to lead and develop others as well as expand current knowledge base.
+11:04:52 [INFO] screening_overall: ★★★★★
+11:04:54 [INFO] -- General information --
+11:04:55 [INFO] Job: : QA Engineer
+11:04:55 [INFO] name: QA Engineer
+11:04:55 [INFO] ref_: 123456792
+11:04:55 [INFO] city: Manhattan
+11:04:55 [INFO] country: United States
+11:04:55 [INFO] description: Job Description Testing
+11:04:55 [INFO] Candidate Details: : =>
+11:04:55 [INFO] title: QA Engineer
+11:04:55 [INFO] company: Avature
+11:04:55 [INFO] e_mail: review@candidate44.com
+11:04:55 [INFO] Attachment/s: : =>
+11:04:55 [INFO] cover letter (cover letter ): 
+11:04:55 [INFO] Work experience: : =>
+11:04:55 [INFO] titles: ["Company", "Position title", "Is current position?", "Start date", "End date"]
+11:04:55 [INFO] values: ["Avature QA Engineer Yes Jan-2015", "Google QA Analyst No Jan-2010 Dec-2014"]
+11:04:55 [INFO] Education History: : =>
+11:04:55 [INFO] titles: ["Degree name", "Type of Degree", "University", "Start Date", "End date"]
+11:04:55 [INFO] values: ["System Analyst GED UTN Jan-2003 Jan-2008", "Bachelor's Bachelor's Degree Carlos Pelegrini Jan-1996 Dec-2001"]
+11:04:55 [INFO] Screening Notes: : =>
+11:04:55 [INFO] relevant_experience_: Three years in similar role with demonstrated success completing similar projects. Proven team player with the ability to work in matrixed environment. Solid exposure to upper management.
+11:04:55 [INFO] why_is: Not actively looking, but open to something which will offer more opportunity to lead and develop others as well as expand current knowledge base.
+11:04:55 [INFO] screening_overall: ★★★★★
+11:05:09 [INFO] title: QA Engineer
+11:05:09 [INFO] company: Avature
+11:05:09 [INFO] e_mail: interview@candidate45.com
+11:05:09 [INFO] -- Work experience --
+11:05:17 [INFO] name: QA Engineer
+11:05:17 [INFO] ref_: 123456790
+11:05:17 [INFO] city: Manhattan
+11:05:17 [INFO] country: United States
+11:05:17 [INFO] description: Job Description Testing
+11:05:20 [INFO] -- General information --
+11:05:21 [INFO] name: QA Engineer
+11:05:21 [INFO] ref_: 123456790
+11:05:21 [INFO] city: Manhattan
+11:05:21 [INFO] country: United States
+11:05:21 [INFO] description: Job Description Testing
+11:05:23 [INFO] titles: ["Company", "Position title", "Is current position?", "Start date", "End date"]
+11:05:23 [INFO] values: ["Avature QA Engineer Yes Jan-2015", "Google QA Analyst No Jan-2010 Dec-2014"]
+11:05:23 [INFO] -- Education History --
+11:05:23 [INFO] -- General information --
+11:05:36 [INFO] titles: ["Degree name", "Type of Degree", "University", "Start Date", "End date"]
+11:05:36 [INFO] values: ["System Analyst GED UTN Jan-2003 Jan-2008", "Bachelor's Bachelor's Degree Carlos Pelegrini Jan-1996 Dec-2001"]
+11:05:36 [INFO] -- Screening Notes --
+11:05:37 [INFO] title: QA Engineer
+11:05:37 [INFO] company: Avature
+11:05:37 [INFO] e_mail: interview@candidate20.com
+11:05:37 [INFO] -- Work experience --
+11:05:40 [INFO] title: QA Engineer
+11:05:40 [INFO] company: Avature
+11:05:40 [INFO] e_mail: interview@candidate13.com
+11:05:40 [INFO] -- Work experience --
+11:05:43 [INFO] == Profile data updated: ==
+11:05:49 [INFO] relevant_experience_: Three years in similar role with demonstrated success completing similar projects. Proven team player with the ability to work in matrixed environment. Solid exposure to upper management.
+11:05:49 [INFO] why_is: Not actively looking, but open to something which will offer more opportunity to lead and develop others as well as expand current knowledge base.
+11:05:49 [INFO] screening_overall: ★★★★★
+11:05:50 [INFO] titles: ["Company", "Position title", "Is current position?", "Start date", "End date"]
+11:05:50 [INFO] values: ["Avature QA Engineer Yes Jan-2015", "Google QA Analyst No Jan-2010 Dec-2014"]
+11:05:50 [INFO] -- Education History --
+11:05:52 [INFO] titles: ["Company", "Position title", "Is current position?", "Start date", "End date"]
+11:05:52 [INFO] values: ["Avature QA Engineer Yes Jan-2015", "Google QA Analyst No Jan-2010 Dec-2014"]
+11:05:52 [INFO] -- Education History --
+11:06:02 [INFO] titles: ["Degree name", "Type of Degree", "University", "Start Date", "End date"]
+11:06:02 [INFO] values: ["System Analyst GED UTN Jan-2003 Jan-2008", "Bachelor's Bachelor's Degree Carlos Pelegrini Jan-1996 Dec-2001"]
+11:06:02 [INFO] -- Screening Notes --
+11:06:04 [INFO] titles: ["Degree name", "Type of Degree", "University", "Start Date", "End date"]
+11:06:04 [INFO] values: ["System Analyst GED UTN Jan-2003 Jan-2008", "Bachelor's Bachelor's Degree Carlos Pelegrini Jan-1996 Dec-2001"]
+11:06:04 [INFO] -- Screening Notes --
+11:06:12 [INFO] first_name_: Berneice
+11:06:12 [INFO] last_name_: Harris
+11:06:12 [INFO] email_: user.hm1@avature.net
+11:06:12 [INFO] mobile_phone_: 496-115-5796
+11:06:12 [INFO] street_: Kristoffer Estates
+11:06:12 [INFO] city_: Westleyville
+11:06:12 [INFO] state_: Virginia
+11:06:12 [INFO] country_: United States
+11:06:12 [INFO] website_: prohaska.net
+11:06:13 [INFO] relevant_experience_: Three years in similar role with demonstrated success completing similar projects. Proven team player with the ability to work in matrixed environment. Solid exposure to upper management.
+11:06:13 [INFO] why_is: Not actively looking, but open to something which will offer more opportunity to lead and develop others as well as expand current knowledge base.
+11:06:13 [INFO] screening_overall: ★★★★★
+11:06:16 [INFO] Job: : QA Engineer
+11:06:16 [INFO] name: QA Engineer
+11:06:16 [INFO] ref_: 123456792
+11:06:16 [INFO] city: Manhattan
+11:06:16 [INFO] country: United States
+11:06:16 [INFO] description: Job Description Testing
+11:06:16 [INFO] -- General information -- Validations
+11:06:16 [INFO] relevant_experience_: Three years in similar role with demonstrated success completing similar projects. Proven team player with the ability to work in matrixed environment. Solid exposure to upper management.
+11:06:16 [INFO] why_is: Not actively looking, but open to something which will offer more opportunity to lead and develop others as well as expand current knowledge base.
+11:06:16 [INFO] screening_overall: ★★★★★
+11:06:38 [INFO] Job: : QA Engineer
+11:06:38 [INFO] name: QA Engineer
+11:06:38 [INFO] ref_: 123456790
+11:06:38 [INFO] city: Manhattan
+11:06:38 [INFO] country: United States
+11:06:38 [INFO] description: Job Description Testing
+11:06:38 [INFO] -- General information -- Validations
+11:06:43 [INFO] Job: : QA Engineer
+11:06:43 [INFO] name: QA Engineer
+11:06:43 [INFO] ref_: 123456790
+11:06:43 [INFO] city: Manhattan
+11:06:43 [INFO] country: United States
+11:06:43 [INFO] description: Job Description Testing
+11:06:43 [INFO] -- General information -- Validations
+11:07:45 [INFO] Searching for: '20, Test Candidate Interview'
+11:07:51 [INFO] Searching for: '13, Test Candidate Interview'
+11:08:30 [INFO] Other Candidates Detail page loaded.
+11:08:35 [INFO] Getting linked Job info
+11:08:38 [INFO] Other Candidates Detail page loaded.
+11:08:44 [INFO] Getting linked Job info
+11:09:04 [INFO] name: QA Engineer
+11:09:04 [INFO] ref_: 123456790
+11:09:04 [INFO] city: Manhattan
+11:09:04 [INFO] country: United States
+11:09:04 [INFO] description: Job Description Testing
+11:09:13 [INFO] name: QA Engineer
+11:09:13 [INFO] ref_: 123456790
+11:09:13 [INFO] city: Manhattan
+11:09:13 [INFO] country: United States
+11:09:13 [INFO] description: Job Description Testing
+11:09:22 [INFO] title: QA Engineer
+11:09:22 [INFO] company: Avature
+11:09:22 [INFO] e_mail: interview@candidate20.com
+11:09:31 [INFO] title: QA Engineer
+11:09:31 [INFO] company: Avature
+11:09:31 [INFO] e_mail: interview@candidate13.com
+11:09:34 [INFO] titles: ["Company", "Position title", "Is current position?", "Start date", "End date"]
+11:09:34 [INFO] values: ["Avature QA Engineer Yes Jan-2015", "Google QA Analyst No Jan-2010 Dec-2014"]
+11:09:44 [INFO] titles: ["Company", "Position title", "Is current position?", "Start date", "End date"]
+11:09:44 [INFO] values: ["Avature QA Engineer Yes Jan-2015", "Google QA Analyst No Jan-2010 Dec-2014"]
+11:09:46 [INFO] titles: ["Degree name", "Type of Degree", "University", "Start Date", "End date"]
+11:09:46 [INFO] values: ["System Analyst GED UTN Jan-2003 Jan-2008", "Bachelor's Bachelor's Degree Carlos Pelegrini Jan-1996 Dec-2001"]
+11:09:57 [INFO] titles: ["Degree name", "Type of Degree", "University", "Start Date", "End date"]
+11:09:57 [INFO] values: ["System Analyst GED UTN Jan-2003 Jan-2008", "Bachelor's Bachelor's Degree Carlos Pelegrini Jan-1996 Dec-2001"]
+11:10:05 [INFO] relevant_experience_: Three years in similar role with demonstrated success completing similar projects. Proven team player with the ability to work in matrixed environment. Solid exposure to upper management.
+11:10:05 [INFO] why_is: Not actively looking, but open to something which will offer more opportunity to lead and develop others as well as expand current knowledge base.
+11:10:05 [INFO] screening_overall: ★★★★★
+11:10:05 [INFO] skills_fit: Well organized
+11:10:05 [INFO] social_fit: Excellent social skills
+11:10:05 [INFO] experience_fit: 5 years of experience
+11:10:19 [INFO] relevant_experience_: Three years in similar role with demonstrated success completing similar projects. Proven team player with the ability to work in matrixed environment. Solid exposure to upper management.
+11:10:19 [INFO] why_is: Not actively looking, but open to something which will offer more opportunity to lead and develop others as well as expand current knowledge base.
+11:10:19 [INFO] screening_overall: ★★★★★
+11:10:19 [INFO] skills_fit: Poor organization
+11:10:19 [INFO] social_fit: Medium social skills
+11:10:19 [INFO] experience_fit: 2 years of experience
+11:10:29 [INFO] Job: : QA Engineer
+11:10:29 [INFO] name: QA Engineer
+11:10:29 [INFO] ref_: 123456790
+11:10:29 [INFO] city: Manhattan
+11:10:29 [INFO] country: United States
+11:10:29 [INFO] description: Job Description Testing
+11:10:29 [INFO] Candidate Details: : =>
+11:10:29 [INFO] title: QA Engineer
+11:10:29 [INFO] company: Avature
+11:10:29 [INFO] e_mail: interview@candidate20.com
+11:10:29 [INFO] Attachment/s: : =>
+11:10:29 [INFO] cover letter (cover letter ): 
+11:10:29 [INFO] Work experience: : =>
+11:10:29 [INFO] titles: ["Company", "Position title", "Is current position?", "Start date", "End date"]
+11:10:29 [INFO] values: ["Avature QA Engineer Yes Jan-2015", "Google QA Analyst No Jan-2010 Dec-2014"]
+11:10:29 [INFO] Education History: : =>
+11:10:29 [INFO] titles: ["Degree name", "Type of Degree", "University", "Start Date", "End date"]
+11:10:29 [INFO] values: ["System Analyst GED UTN Jan-2003 Jan-2008", "Bachelor's Bachelor's Degree Carlos Pelegrini Jan-1996 Dec-2001"]
+11:10:45 [INFO] Job: : QA Engineer
+11:10:45 [INFO] name: QA Engineer
+11:10:45 [INFO] ref_: 123456790
+11:10:45 [INFO] city: Manhattan
+11:10:45 [INFO] country: United States
+11:10:45 [INFO] description: Job Description Testing
+11:10:45 [INFO] Candidate Details: : =>
+11:10:45 [INFO] title: QA Engineer
+11:10:45 [INFO] company: Avature
+11:10:45 [INFO] e_mail: interview@candidate13.com
+11:10:45 [INFO] Attachment/s: : =>
+11:10:45 [INFO] cover letter (cover letter ): 
+11:10:45 [INFO] Work experience: : =>
+11:10:45 [INFO] titles: ["Company", "Position title", "Is current position?", "Start date", "End date"]
+11:10:45 [INFO] values: ["Avature QA Engineer Yes Jan-2015", "Google QA Analyst No Jan-2010 Dec-2014"]
+11:10:45 [INFO] Education History: : =>
+11:10:45 [INFO] titles: ["Degree name", "Type of Degree", "University", "Start Date", "End date"]
+11:10:45 [INFO] values: ["System Analyst GED UTN Jan-2003 Jan-2008", "Bachelor's Bachelor's Degree Carlos Pelegrini Jan-1996 Dec-2001"]

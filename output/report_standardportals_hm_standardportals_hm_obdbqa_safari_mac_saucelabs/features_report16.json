@@ -1,0 +1,110 @@
+[
+  {
+    "uri": "features/standardportals_hm/07_standardportals_hm_delegate.feature",
+    "id": "delegate-user-task-to-another-user",
+    "keyword": "Feature",
+    "name": "Delegate user task to another user",
+    "description": "  In order to entrust responsabilities to another user\n  As a portal user\n  I want to delegate responsabilities to another user",
+    "line": 2,
+    "tags": [
+      {
+        "name": "@standard",
+        "line": 1
+      },
+      {
+        "name": "@delegate",
+        "line": 1
+      }
+    ],
+    "elements": [
+      {
+        "id": "delegate-user-task-to-another-user;successfully-add-a-delegate",
+        "keyword": "Scenario",
+        "name": "Successfully add a delegate",
+        "description": "",
+        "line": 8,
+        "type": "scenario",
+        "tags": [
+          {
+            "name": "@standard",
+            "line": 1
+          },
+          {
+            "name": "@delegate",
+            "line": 1
+          },
+          {
+            "name": "@delegate_add",
+            "line": 7
+          }
+        ],
+        "before": [
+          {
+            "match": {
+              "location": "capybara-2.14.4/lib/capybara/cucumber.rb:13"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 26974
+            }
+          },
+          {
+            "match": {
+              "location": "capybara-2.14.4/lib/capybara/cucumber.rb:21"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 37298
+            }
+          },
+          {
+            "match": {
+              "location": "features/support/cucumber_hooks.rb:33"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 23642973896
+            }
+          }
+        ],
+        "steps": [
+          {
+            "keyword": "Given ",
+            "name": "hm user logs in to the agnostic hm portal",
+            "line": 9,
+            "match": {
+              "location": "features/standardportals_hm/step_definitions/standardportals_hm_steps.rb:51"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 48318626907
+            }
+          }
+        ],
+        "after": [
+          {
+            "output": [
+              "SauceOnDemandSessionID=ceb979a685644acebf34706fc8950c8e job-name=standardportals_hm - Delegate user task to another user - Successfully add a delegate"
+            ],
+            "match": {
+              "location": "features/support/cucumber_hooks.rb:1"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 3202423103
+            }
+          },
+          {
+            "match": {
+              "location": "capybara-2.14.4/lib/capybara/cucumber.rb:9"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2788434685
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "uri": "features/standardportals_hm/03_standardportals_hm_job_approval.feature",
+    "id": "approve-requisitions-through-the-portal",
+    "keyword": "Feature",
+    "name": "approve requisitions through the portal",
+    "description": "  In order to review details and approve jobs\n  As a portal user\n  I want to approve jobs through the hm portal",
+    "line": 2,
+    "tags": [
+      {
+        "name": "@standard",
+        "line": 1
+      },
+      {
+        "name": "@jobs",
+        "line": 1
+      },
+      {
+        "name": "@jobs_approval",
+        "line": 1
+      }
+    ],
+    "elements": [
+      {
+        "id": "approve-requisitions-through-the-portal;successfully-view-job-details",
+        "keyword": "Scenario",
+        "name": "successfully view job details",
+        "description": "",
+        "line": 8,
+        "type": "scenario",
+        "tags": [
+          {
+            "name": "@standard",
+            "line": 1
+          },
+          {
+            "name": "@jobs",
+            "line": 1
+          },
+          {
+            "name": "@jobs_approval",
+            "line": 1
+          },
+          {
+            "name": "@job_details",
+            "line": 7
+          }
+        ],
+        "before": [
+          {
+            "match": {
+              "location": "capybara-2.14.4/lib/capybara/cucumber.rb:13"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 48967
+            }
+          },
+          {
+            "match": {
+              "location": "capybara-2.14.4/lib/capybara/cucumber.rb:21"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 308088
+            }
+          },
+          {
+            "match": {
+              "location": "features/support/cucumber_hooks.rb:33"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 10204144376
+            }
+          }
+        ],
+        "steps": [
+          {
+            "keyword": "Given ",
+            "name": "hm user logs in to the agnostic hm portal",
+            "line": 9,
+            "match": {
+              "location": "features/standardportals_hm/step_definitions/standardportals_hm_steps.rb:51"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 45774331088
+            }
+          },
+          {
+            "keyword": "When ",
+            "name": "hm user accesses a job pending to approval through the agnostic hm portal",
+            "line": 10,
+            "match": {
+              "location": "features/standardportals_hm/step_definitions/standardportals_hm_steps.rb:97"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 82574807503
+            }
+          },
+          {
+            "keyword": "Then ",
+            "name": "hm user successfully reviewed job details through the agnostic hm portal",
+            "line": 11,
+            "match": {
+              "location": "features/standardportals_hm/step_definitions/standardportals_hm_steps.rb:105"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 24820894746
+            }
+          }
+        ],
+        "after": [
+          {
+            "output": [
+              "SauceOnDemandSessionID=fd263653004145f58ff7f231de236a82 job-name=standardportals_hm - approve requisitions through the portal - successfully view job details"
+            ],
+            "match": {
+              "location": "features/support/cucumber_hooks.rb:1"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 3357102424
+            }
+          },
+          {
+            "match": {
+              "location": "capybara-2.14.4/lib/capybara/cucumber.rb:9"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2483369786
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
